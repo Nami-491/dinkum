@@ -47,7 +47,8 @@ try {
     $published = Invoke-RestMethod -Uri "$api/releases/$($release.id)" -Headers $headers -Method Patch -ContentType 'application/json' -Body '{"draft":false,"prerelease":true}'
     $verified = Invoke-RestMethod -Uri "$api/releases/$($release.id)" -Headers $headers
     if ($verified.draft -or -not $verified.prerelease -or @($verified.assets | Where-Object { $_.id -eq $asset.id -and $_.digest -eq "sha256:$digest" }).Count -ne 1) { throw 'Final release verification failed.' }
-    [PSCustomObject]@{Release=$published.html_url; Download=$asset.browser_download_url; SHA256=$digest; AssetId=$asset.id}
+    $finalAsset = $verified.assets | Where-Object id -eq $asset.id
+    [PSCustomObject]@{Release=$published.html_url; Download=$finalAsset.browser_download_url; SHA256=$digest; AssetId=$asset.id}
 }
 finally {
     if ($headers) { $headers.Clear() }

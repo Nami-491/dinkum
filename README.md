@@ -4,7 +4,11 @@ Windows용 비공식 Dinkum 모드 관리자입니다. 설치할 기능과 단�
 
 ## 다운로드
 
-배포 파일은 **[Releases](https://github.com/Nami-491/dinkum/releases)**에서 제공할 예정입니다. 아직 업로드되지 않았다면 릴리스 목록은 비어 있습니다. GitHub의 자동 생성 `Source code` ZIP은 실행 설치 파일이 아닙니다.
+**[통합팩 4.2 설치 ZIP 다운로드](https://github.com/Nami-491/dinkum/releases/download/v4.2.0/Dinkum-Modpack-4.2.0-test.zip)**
+
+[배포 페이지](https://github.com/Nami-491/dinkum/releases/tag/v4.2.0) · [한국어 사용법](docs/USAGE.ko.md) · [검증 내역과 남은 제한](docs/VALIDATION.ko.md)
+
+GitHub의 자동 생성 `Source code` ZIP은 실행 설치 파일이 아닙니다. 위 설치 ZIP을 사용하세요.
 
 배포 ZIP을 압축 해제한 후 `Dinkum-Modpack-Setup.exe`를 실행하세요. 게임 실행 중에는 적용할 수 없습니다. 방장·참가자 전원 장비 강화 **1.2.0**을 사용해야 합니다.
 
@@ -28,3 +32,13 @@ Windows용 비공식 Dinkum 모드 관리자입니다. 설치할 기능과 단�
 - 개인 제작 미서명 EXE입니다. 보안 프로그램을 끄지 마세요.
 
 게임 원본 DLL·세이브·개인 로그·계정 정보는 배포하지 않습니다. 원작자의 공식 배포물이 아닌 로컬 호환성 구현이며, 출처와 포함 구성요소 고지는 패키지의 `NOTICE.txt`와 `Mono.Cecil-LICENSE.txt`를 확인하세요.
+
+## 소스와 파일 확인
+
+모드·설치기 소스는 `src`, 직접 빌드하는 방법은 [BUILD.md](BUILD.md)에 있습니다. 공개 소스로 modern/legacy 모드 및 설치기의 빌드를 확인했습니다.
+
+설치 ZIP SHA-256:
+
+```text
+4b9acc76a18b5cbcb2b82c42d7190a9d3f7e2c0b78b105dc676d154993cf4d20
+```
