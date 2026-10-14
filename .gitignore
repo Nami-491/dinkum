@@ -1,0 +1,12 @@
+*.log
+*.pdb
+*.es3*
+*.dat
+bin/
+obj/
+.vs/
+Saves/
+BepInEx/
+game/
+*.zip
+*.exe
