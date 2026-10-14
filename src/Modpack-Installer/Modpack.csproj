@@ -1,7 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net472</TargetFramework><OutputType>WinExe</OutputType><LangVersion>latest</LangVersion>
-    <AssemblyName>Dinkum-Modpack-Setup</AssemblyName><Version>4.2.0</Version><PlatformTarget>x64</PlatformTarget>
+    <AssemblyName>Dinkum-Modpack-Setup</AssemblyName><Version>4.2.1</Version><PlatformTarget>x64</PlatformTarget>
+    <EnhancementBuildRoot Condition="'$(EnhancementBuildRoot)' == ''">../pack421-build</EnhancementBuildRoot>
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <GamePath Condition="'$(GamePath)' == ''">C:/Program Files (x86)/Steam/steamapps/common/Dinkum</GamePath>
   </PropertyGroup>
@@ -15,8 +16,8 @@
     <EmbeddedResource Include="NOTICE.txt" LogicalName="NOTICE.txt" />
     <EmbeddedResource Include="../pack42-build/modern/EquipmentRecovery/LocalDinkum.EquipmentRecovery.dll" LogicalName="recovery.modern.dll" />
     <EmbeddedResource Include="../pack42-build/legacy/EquipmentRecovery/LocalDinkum.EquipmentRecovery.dll" LogicalName="recovery.legacy.dll" />
-    <EmbeddedResource Include="../pack42-build/modern/EquipmentEnhancement/LocalDinkum.EquipmentEnhancement.dll" LogicalName="enhancement.modern.dll" />
-    <EmbeddedResource Include="../pack42-build/legacy/EquipmentEnhancement/LocalDinkum.EquipmentEnhancement.dll" LogicalName="enhancement.legacy.dll" />
+    <EmbeddedResource Include="$(EnhancementBuildRoot)/modern/EquipmentEnhancement/LocalDinkum.EquipmentEnhancement.dll" LogicalName="enhancement.modern.dll" />
+    <EmbeddedResource Include="$(EnhancementBuildRoot)/legacy/EquipmentEnhancement/LocalDinkum.EquipmentEnhancement.dll" LogicalName="enhancement.legacy.dll" />
     <EmbeddedResource Include="../makeshift-build/modern/Snaitf.Dinkum.Makeshift.dll" LogicalName="makeshift.modern.dll" />
     <EmbeddedResource Include="../makeshift-build/legacy/Snaitf.Dinkum.Makeshift.dll" LogicalName="makeshift.legacy.dll" />
     <EmbeddedResource Include="../modpack-build/modern/FancyFeast/Snaitf.Dinkum.FancyFeast.dll" LogicalName="fancy.modern.dll" />

@@ -38,6 +38,16 @@ namespace MakeshiftSetup
                     var calls = type.Methods.Where(m => m.HasBody).SelectMany(m => m.Body.Instructions).Select(i => i.Operand).OfType<MethodReference>().ToArray();
                     check(calls.Any(m => m.Name == "set_NetworkdesiredPos") && !calls.Any(m => m.DeclaringType.Name == "NetworkServer" && (m.Name == "Spawn" || m.Name == "Destroy")), variant + " recovery moves native drop, no network spawn/destroy");
                     string game = Path.Combine(root, variant); Directory.CreateDirectory(game);
+                    var current = Catalog.Mods.Single(m => m.Key == "enhancement");
+                    string currentPath = Engine.SafePath(game, current.Target); Directory.CreateDirectory(Path.GetDirectoryName(currentPath));
+                    string old42 = Path.Combine(work, "pack42-build", variant, "EquipmentEnhancement", "LocalDinkum.EquipmentEnhancement.dll");
+                    File.WriteAllBytes(currentPath, File.ReadAllBytes(old42));
+                    var upgradePlan = new Dictionary<string, byte[]> { [current.Target] = Engine.Resource("enhancement." + variant + ".dll") };
+                    check(Engine.VerifiedEnhancementUpgrade(game, upgradePlan, variant), variant + " verified 4.2 to 4.2.1 safe upgrade");
+                    string pending = Engine.SafePath(game, "BepInEx/config/LocalEquipmentEnhancement/pending-slot0.txt");
+                    Directory.CreateDirectory(Path.GetDirectoryName(pending)); File.WriteAllText(pending, "fixture");
+                    reject(() => Engine.VerifiedEnhancementUpgrade(game, upgradePlan, variant), variant + " pending enhancement blocks upgrade");
+                    File.Delete(pending); File.Delete(currentPath); // Only scratch fixture files created above.
                     var selected = Catalog.Select(new[] { "recovery" });
                     reject(() => Engine.ValidateRecoveryDependency(game, selected, variant), variant + " missing dependency blocked");
                     var enhancement = Catalog.Mods.Single(m => m.Key == "enhancement");

@@ -21,7 +21,7 @@ namespace MakeshiftSetup
         private bool busy;
         internal MainForm()
         {
-            Text = "Dinkum 통합 모드 관리자 · 4.2 참가자 업데이트 / +20";
+            Text = "Dinkum 통합 모드 관리자 · 4.2.1 선택 슬롯 변환 / +20";
             Font = new Font("맑은 고딕", 10f); AutoScaleMode = AutoScaleMode.Dpi;
             ClientSize = new Size(880, 810); MinimumSize = new Size(820, 780); StartPosition = FormStartPosition.CenterScreen;
             var layout = new TableLayoutPanel { Dock = DockStyle.Fill, Padding = new Padding(22), ColumnCount = 1, RowCount = 10 };

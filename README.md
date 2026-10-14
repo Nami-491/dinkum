@@ -4,9 +4,9 @@ Windows용 비공식 Dinkum 모드 관리자입니다. 설치할 기능과 단�
 
 ## 다운로드
 
-**[통합팩 4.2 설치 ZIP 다운로드](https://github.com/Nami-491/dinkum/releases/download/v4.2.0/Dinkum-Modpack-4.2.0-test.zip)**
+**[통합팩 4.2.1 설치 ZIP 다운로드](https://github.com/Nami-491/dinkum/releases/download/v4.2.1/Dinkum-Modpack-4.2.1-test.zip)**
 
-[배포 페이지](https://github.com/Nami-491/dinkum/releases/tag/v4.2.0) · [한국어 사용법](docs/USAGE.ko.md) · [검증 내역과 남은 제한](docs/VALIDATION.ko.md)
+[배포 페이지](https://github.com/Nami-491/dinkum/releases/tag/v4.2.1) · [한국어 사용법](docs/USAGE.ko.md) · [4.2.1 검증 범위](docs/VALIDATION-4.2.1.ko.md)
 
 GitHub의 자동 생성 `Source code` ZIP은 실행 설치 파일이 아닙니다. 위 설치 ZIP을 사용하세요.
 
@@ -14,11 +14,13 @@ GitHub의 자동 생성 `Source code` ZIP은 실행 설치 파일이 아닙니�
 
 ## 로드·저장이 차단되거나 기본 외형 캐릭터에서 멈춘 경우
 
-**[참가자 세이브 호환성 설정 안내](docs/SAVE-MIGRATION.ko.md)**를 먼저 확인하세요. 변환 기능은 위 4.2 ZIP에 이미 포함돼 있습니다. 같은 버전이면 재다운로드하지 않아도 됩니다.
+**[참가자 세이브 호환성 설정 안내](docs/SAVE-MIGRATION.ko.md)**를 먼저 확인하세요. 4.2.1은 기존 변환 화면을 개선한 새 DLL 배포입니다. 구형 잔여 파일 때문에 4.2 변환이 막혔다면 4.2.1로 업데이트하세요.
 
 구 강화 1.0 사용자가 이번 게임 업데이트 이후 정상 플레이·저장하지 않은 경우에만 해당 Slot의 `구 강화 1.0 / 업데이트 후 저장 없음`을 선택합니다. 먼저 게임을 종료하고 세이브 전체를 백업한 뒤, 재실행하여 **캐릭터 선택·접속 전 첫 화면**에서 진행하세요. 업데이트 후 저장했거나 이력을 모르면 변환하지 마세요.
 
-이 안내 추가는 로딩 흐름 버그 수정이나 새 DLL 배포가 아닙니다. 제거 준비·초기 복원으로 대체하지 마세요.
+4.2.1에서는 슬롯별로 변환 종류 또는 **이번에는 건너뛰기**를 선택합니다. 선택한 슬롯에 현대 형식 `Player.es3`가 있으면 해당 슬롯의 Player/Container 및 지정된 백업만 변환하고, 구형 `.dat`·개별 `.es3`는 보존합니다. `.dat`만 있는 구형 전용 저장은 지원하지 않습니다. 제거 준비·초기 복원으로 대체하지 마세요.
+
+강화 플러그인 표시는 **1.2.0**을 유지합니다. 강화 규칙·장비 번호·접속 지문 생성은 기존 4.2와 동일합니다. 새 변환 화면은 실제 게임 실행 검증 전인 테스트 배포입니다. 현재 플레이 중인 게임에 자동 설치하지 않습니다.
 
 ## 4.2 변경 사항
 
@@ -45,8 +47,4 @@ GitHub의 자동 생성 `Source code` ZIP은 실행 설치 파일이 아닙니�
 
 모드·설치기 소스는 `src`, 직접 빌드하는 방법은 [BUILD.md](BUILD.md)에 있습니다. 공개 소스로 modern/legacy 모드 및 설치기의 빌드를 확인했습니다.
 
-설치 ZIP SHA-256:
-
-```text
-4b9acc76a18b5cbcb2b82c42d7190a9d3f7e2c0b78b105dc676d154993cf4d20
-```
+설치 ZIP SHA-256은 해당 Release 설명을 확인하세요. ZIP 내부 `SHA256SUMS.txt`는 내부 파일 검사용입니다. 개인 세이브 변환 ZIP은 공개 배포에 포함하지 않습니다.

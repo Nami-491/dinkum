@@ -1,0 +1,1 @@
+<Project Sdk="Microsoft.NET.Sdk"><PropertyGroup><OutputType>Exe</OutputType><TargetFramework>net8.0</TargetFramework><EnableDefaultCompileItems>false</EnableDefaultCompileItems></PropertyGroup><ItemGroup><Compile Include="ScopeTests.cs"/><Compile Include="../../src/Modpack-Mods/EnhancementMigrationScope.cs"/></ItemGroup></Project>

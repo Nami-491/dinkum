@@ -20,6 +20,7 @@
     <Compile Include="EnhancementConversion.cs" Condition="'$(Mod)' == 'EquipmentEnhancement'" />
     <Compile Include="EnhancementCompatibility.cs" Condition="'$(Mod)' == 'EquipmentEnhancement'" />
     <Compile Include="EnhancementSaveUpgrade.cs" Condition="'$(Mod)' == 'EquipmentEnhancement'" />
+    <Compile Include="EnhancementMigrationScope.cs" Condition="'$(Mod)' == 'EquipmentEnhancement'" />
     <EmbeddedResource Include="native-catalog-25568182.tsv" LogicalName="native-catalog.tsv" Condition="'$(Mod)' == 'EquipmentEnhancement'" />
     <Compile Include="DepositRules.cs" Condition="'$(Mod)' == 'InventoryManagement'" />
     <Compile Include="ItemLocks.cs" Condition="'$(Mod)' == 'InventoryManagement'" />

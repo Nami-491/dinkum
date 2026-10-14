@@ -1,4 +1,6 @@
-Dinkum Local Modpack 4.2.0 — 2026-10-14
+Dinkum Local Modpack 4.2.1 — 2026-10-14
+
+4.2.1 updates the main-menu save migration scope only. Select or skip each slot. Modern combined Player/Container saves and designated backups can be migrated while old .dat/component .es3 remnants are preserved. Legacy-only slots without Player.es3 remain unsupported and must be skipped. Enhancement stays 1.2.0; gameplay and network registry code is unchanged from 4.2. Builds, static scope tests and package checks passed; the new migration flow has NOT been executed in a live game. See the 4.2.1 validation report. Historical runtime checks below are not new 4.2.1 runtime evidence. No private save files are included.
 
 4.2 supports the inspected Steam build 25568182 with an exact Assembly-CSharp hash gate. Equipment Enhancement and Recovery are 1.2.0. All players must use the same enhancement version. Seven defaults include enhancement; recovery remains optional and host-only. Existing BepInEx loader selection is automatic.
 Enhancement reaches +20. Attempts consume Dinks ONLY, on success and failure; no material items are consumed. Failures at current +0 through +10 keep the level; current +11 through +19 lose one tier, with +10 floor and no destruction. +20 power is 1000% and capacity 1600% of base. Condition ratio is preserved; this is not a full repair or increased drop yield.

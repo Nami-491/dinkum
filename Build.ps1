@@ -18,7 +18,7 @@ foreach ($variant in @('modern','legacy')) {
     foreach ($mod in @('FancyFeast','FishInABarrel','InventoryManagement','SalePrices','NpcMap')) {
         Build-Project 'Modpack-Mods/Mods.csproj' (Join-Path $src "modpack-build/$variant/$mod") ($properties + @("-p:Mod=$mod"))
     }
-    Build-Project 'Modpack-Mods/Mods.csproj' (Join-Path $src "pack42-build/$variant/EquipmentEnhancement") ($properties + @('-p:Mod=EquipmentEnhancement'))
+    Build-Project 'Modpack-Mods/Mods.csproj' (Join-Path $src "pack421-build/$variant/EquipmentEnhancement") ($properties + @('-p:Mod=EquipmentEnhancement'))
     Build-Project 'EquipmentRecovery/Recovery.csproj' (Join-Path $src "pack42-build/$variant/EquipmentRecovery") $properties
 }
 Build-Project 'Modpack-Installer/Modpack.csproj' (Join-Path $PSScriptRoot 'build') @()

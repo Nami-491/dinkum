@@ -248,7 +248,7 @@ namespace MakeshiftSetup
             var found = PluginFiles(game).Where(p => Matches(p, mod)).ToArray();
             if (found.Length != 1) return false;
             string digest = FileHash(found[0]);
-            var known = variant == "modern" ? new[] { "89BEC5379DE40A2859F4D17C38745869102066DE561B4572D3D26027CC30C819", "CAF8AE39946C4C95D544102B8A3C4B500F01BCAB2FF0A6E66338FB1E78D685E1" } : new[] { "B68A007CA83C20F8A75600E74EA0F9936B56E9D074888652E1339AF68B02B8FB" };
+            var known = variant == "modern" ? new[] { "89BEC5379DE40A2859F4D17C38745869102066DE561B4572D3D26027CC30C819", "CAF8AE39946C4C95D544102B8A3C4B500F01BCAB2FF0A6E66338FB1E78D685E1", "24C5647BEAE1BF50B999D5B60378FDE1DB1F773B24852F977400E4BF978EBA82" } : new[] { "B68A007CA83C20F8A75600E74EA0F9936B56E9D074888652E1339AF68B02B8FB", "FDB80E2A24A272028AD73408B737A2BBE2FBDF0F3DEAE4B1DC90F3CC7D8E23D0" };
             if (!known.Contains(digest)) return false;
             if (plan.Any(p => (p.Key.StartsWith("BepInEx/core/", StringComparison.OrdinalIgnoreCase) || p.Key.Equals("winhttp.dll", StringComparison.OrdinalIgnoreCase)) && FileHash(SafePath(game, p.Key)) != (p.Value == null ? null : Hash(p.Value)))) return false;
             string journals = SafePath(game, "BepInEx/config/LocalEquipmentEnhancement");
