@@ -1,0 +1,2174 @@
+0	Basic Axe	True	150	2	10
+1	Megaphone	False	0	0	5
+2	Bug Net	False	150	1	10
+3	Chainsaw	False	2500	3	15
+4	Fishing Rod	False	150	1	25
+5	Shovel of Dirt	False	600	1	1
+6	Shovel	False	600	1	15
+7	Hoe	True	150	1	1
+8	Basic Pickaxe	True	150	1	8
+9	Torch	False	250	0	0
+10	Basic Watering Can	False	20	1	10
+11	Wooden Bat	True	150	3	15
+12	Bag of Cement	False	0	1	5
+13	BBQ	False	0	1	5
+14	Bone	False	0	1	5
+15	Brick Path	False	0	1	0
+16	Brick Steps	False	0	1	5
+17	Bush Lime	False	0	1	5
+18	Camp Fire	False	0	1	5
+19	Cooked Meat	False	0	1	5
+20	Funnel Web Spider	False	0	1	5
+21	Raw Meat	False	0	1	5
+22	Nails	False	0	1	5
+23	Shiny Stone	False	0	1	5
+24	Cooking Kettle	False	0	1	0
+25	Garden Light	False	0	1	0
+26	Stone	False	0	1	5
+27	Stone Grinder	False	0	1	5
+28	Sugar Cane	False	0	1	5
+29	Ulysses Butterfly	False	0	1	5
+30	Wooden Crate	False	0	1	0
+31	Corner Ramp	False	0	1	5
+32	Palm Wood Fence	False	0	1	0
+33	Gum Log	False	0	1	5
+34	Wooden Torch	False	0	1	0
+35	Crafting Lab Deed	False	0	1	0
+36	Your House Deed	False	0	1	0
+37	Post Office Deed	False	0	1	0
+38	PowerLine	False	0	1	0
+39	Shop Deed	False	0	1	0
+40	Aussie Hat	False	0	1	5
+41	Black Boots	False	0	1	5
+42	Blue Jeans	False	0	1	5
+43	Tradie Boots	False	0	1	5
+44	Tradie Pants	False	0	1	5
+45	Dark Shorts	False	0	1	5
+46	Purple Shirt	False	0	1	5
+47	Red Flanney	False	0	1	5
+48	Barcoo Grunter	False	0	1	0
+49	Barramundi	False	0	1	0
+50	River Bass	False	0	1	0
+51	Hand Bell	False	0	1	0
+52	Jungle Perch	False	0	1	0
+53	Purple Armchair	False	0	1	5
+54	Wooden Double Bed	False	0	1	5
+55	Coffee Table	False	0	1	5
+56	Wooden Chair	False	0	1	5
+57	Wooden Couch	False	0	1	5
+58	Small Round Table	False	0	1	5
+59	Dark Wood Cabinet	False	0	1	5
+60	Sugar Cane Seeds	False	0	1	5
+61	Dog Hat	False	0	1	5
+62	Holiday Hat	False	0	1	5
+63	Blue Beanie	False	0	1	5
+64	Top Hat	False	0	1	5
+65	Red Baseball Cap	False	0	1	5
+66	Yellow Bucket Hat	False	0	1	5
+67	Welcome sign	False	0	1	0
+68	Business Pants	False	0	1	5
+69	Business Shirt	False	0	1	5
+70	Business Shoes	False	0	1	5
+71	Green Pants	False	0	1	5
+72	Green Sweater	False	0	1	5
+73	Green Shoes	False	0	1	5
+74	Blue Holiday Shirt	False	0	1	5
+75	Thongs	False	0	1	5
+76	Blue Holiday Shorts	False	0	1	5
+77	Tradie Shirt	False	0	1	5
+78	Khaki Boots	False	0	1	5
+79	Khaki Shorts	False	0	1	5
+80	Khaki Shirt	False	0	1	5
+81	Clothing Shop Deed	False	0	1	0
+82	Blue Shorts	False	0	1	5
+83	Blue and Yellow Shirt	False	0	1	5
+84	Red Sneakers	False	0	1	5
+85	Blue Dress	False	0	1	5
+86	Fairest Dress	False	0	1	5
+87	White Flats	False	0	1	5
+88	Mustard Coat	False	0	1	5
+89	White Sneakers	False	0	1	5
+90	Ripped Jeans	False	0	1	5
+91	White Dress	False	0	1	5
+92	White Flats	False	0	1	5
+93	Red Dress	False	0	1	5
+94	Red Flats	False	0	1	5
+95	Pin Stripe Jacket	False	0	1	5
+96	Pin Stripe Pants	False	0	1	5
+97	Grass Hopper	False	0	1	5
+98	Common Blue Tail	False	0	1	5
+99	Pontoon Bridge	False	0	1	0
+100	Fly	False	0	1	5
+101	Cockroach	False	0	1	5
+102	Yellow Wattle Flower	False	0	1	5
+103	Metal Detector	False	750	1	10
+104	Opal	False	0	1	5
+105	Copper Ore	False	0	1	5
+106	Iron Ore	False	0	1	5
+107	Quartz Crystal	False	0	1	5
+108	Peacock Spider	False	0	1	5
+109	Trogid	False	0	1	5
+110	Street Lamp	False	0	1	0
+111	Cabbage	False	0	1	5
+112	Cabbage Seeds	False	0	1	5
+113	Iron Bar	False	0	1	5
+114	Copper Bar	False	0	1	5
+115	Furnace	False	0	1	5
+116	Carrot	False	0	1	5
+117	Carrot Seeds	False	0	1	5
+118	Thunderbox	False	0	0	8
+119	First Aid Kit	False	3	0	5
+120	Green Beanie	False	0	1	5
+121	Red Beanie	False	0	1	5
+122	Blue Bucket Hat	False	0	1	5
+123	Corn	False	0	1	5
+124	Corn Seeds	False	0	1	5
+125	Plant Shop Deed	False	0	1	0
+126	ADM	False	0	1	0
+127	Dark Wooden Single Bed	False	0	1	5
+128	Basic Watering Can	False	0	1	10
+129	Mine Deed	False	0	1	0
+130	Miners Helmet	False	1200	1	5
+131	Wooden Chair	False	0	1	5
+132	Wooden Table	False	0	1	5
+133	Wooden Bedside Table	False	0	1	5
+134	Wooden Chest Of Drawers	False	0	1	5
+135	Wooden Cabinet	False	0	1	5
+136	Wooden Single Bed	False	0	1	5
+137	Stylish ArmChair	False	0	1	5
+138	Stylish Sofa	False	0	1	5
+139	Dark Wooden Chair	False	0	1	5
+140	Purple Sofa	False	0	1	5
+141	A white chair	False	0	1	5
+142	White Coffee Table	False	0	1	5
+143	White Dinner Table	False	0	1	5
+144	White Long Cofee Table	False	0	1	5
+145	White Sofa	False	0	1	5
+146	Stylish Bed	False	0	1	5
+147	Stylish Bedside Table	False	0	1	5
+148	Stylish Drawers	False	0	1	5
+149	Stylish Dresser	False	0	1	5
+150	Furniture Shop Deed	False	0	1	0
+151	Dainty Bed	False	0	1	5
+152	Dainty Bedside Table	False	0	1	5
+153	Dainty Chair	False	0	1	5
+154	Dainty Coffee Table	False	0	1	5
+155	Dainty Drawers	False	0	1	5
+156	Dainty Kitchen Table	False	0	1	5
+157	Dainty Lamp	False	0	1	5
+158	Dainty Ottoman	False	0	1	5
+159	Dainty Sofa	False	0	1	5
+160	White Arm Chair	False	0	1	5
+161	White Ottoman	False	0	1	5
+162	White Bed	False	0	1	5
+163	White Bed Side Table.	False	0	1	5
+164	White Chest of Drawers	False	0	1	5
+165	Fern Vase	False	0	1	5
+166	Purple Vase	False	0	1	5
+167	Yellow Wattle Vase	False	0	1	5
+168	Kitchen Cabinet	False	0	1	5
+169	Kitchen Oven	False	0	1	5
+170	Kitchen Sink	False	0	1	5
+171	Stylish Chair	False	0	1	5
+172	Stylish Table	False	0	1	5
+173	Stylish Lamp	False	0	1	5
+174	Regal ArmChair	False	0	1	5
+175	Regal Bed	False	0	1	5
+176	Regal Bedside Table	False	0	1	5
+177	Regal Chair	False	0	1	5
+178	Regal Lamp	False	0	1	5
+179	Regal Sofa	False	0	1	5
+180	Regal Table	False	0	1	5
+181	Regal Drawers	False	0	1	5
+182	Feather	False	0	1	5
+183	Copper Pickaxe	True	250	2	15
+184	Iron Pickaxe	True	400	3	35
+185	Space Helmet	False	0	1	5
+186	Space Suit Pants	False	0	1	5
+187	Space Suit Shirt	False	0	1	5
+188	Space Suit Shoes	False	0	1	5
+189	Pink Baseball Cap	False	0	1	5
+190	Black Pants	False	0	1	5
+191	Black Shirt	False	0	1	5
+192	Black Sneakers	False	0	1	5
+193	Daisy Shorts	False	0	1	5
+194	Pink Dress	False	0	1	5
+195	Strapped Sandals	False	0	1	5
+196	Green Baseball Cap	False	0	1	5
+197	Nautilis Shell	False	0	1	5
+198	Scallop Shell	False	0	1	5
+199	Syrinx Shell	False	0	1	5
+200	Banded Morwong	False	0	1	0
+201	Bluefish	False	0	1	0
+202	Garfish	False	0	1	0
+203	Golden Perch	False	0	1	0
+204	Mangrove Jack	False	0	1	0
+205	Luderick	False	0	1	0
+206	Blue Spot Flathead	False	0	1	0
+207	Travalla	False	0	1	0
+208	Yellowfin Tuna	False	0	1	0
+209	Pirate Coat	False	0	1	5
+210	Spinifex Tuft	False	0	1	5
+211	Hot Air Balloon	False	0	1	5
+212	Spinifex Resin	False	0	1	5
+213	Palm Wood Log	False	0	1	5
+214	Prickly Pear Flesh	False	0	1	5
+215	Cactus Figs	False	0	1	5
+216	Copper Axe	True	250	3	15
+217	Iron Axe	True	400	4	25
+218	Jump Charm	False	0	1	5
+219	Swim Charm	False	0	1	5
+220	Run Charm	False	0	1	5
+221	White Collar Dress	False	0	1	5
+222	Dark Blue Button Dress	False	0	1	5
+223	Crab Pot	False	0	1	0
+224	Mud Crab	False	0	1	5
+225	Honey	False	0	1	5
+226	Bee House	False	0	1	0
+227	Bee	False	0	1	5
+228	Queen Bee	False	0	1	5
+229	Red Back Spider	False	0	1	5
+230	Desert Scorpion	False	0	1	5
+231	Stinkbug	False	0	1	5
+232	Paper Wasp	False	0	1	5
+233	Birdwing Butterfly	False	0	1	5
+234	Swallow-tail Butterfly	False	0	1	5
+235	Harlequin Butterfly	False	0	1	5
+236	Sling Shot	True	200	4	15
+237	Yabbie	False	0	1	5
+238	Pink Shots	False	0	1	5
+239	Pink Sneakers	False	0	1	5
+240	Pink T-Shirt	False	0	1	5
+241	Blue Sneakers	False	0	1	5
+242	Blue T-Shirt	False	0	1	5
+243	Purple Dress	False	0	1	5
+244	Purple Flats	False	0	1	5
+245	Purple Pants	False	0	1	5
+246	Crocodile Tooth	False	0	1	5
+247	Glowing Mushroom	False	0	1	5
+248	Firefly	False	0	1	5
+249	Field Cricket	False	0	5	5
+250	Cement Path	False	0	1	0
+251	Brick Fence	False	0	1	0
+252	Ute	False	0	1	5
+253	Green Boots	False	0	1	5
+254	Brown Pants	False	0	1	5
+255	Blue Flanney Shirt	False	0	1	5
+256	Black Striped Pants	False	0	1	5
+257	Green Jacket	False	0	1	5
+258	Maroon Pants	False	0	1	5
+259	Adventure Hood	False	0	1	5
+260	Red Strapped Shoes	False	0	1	5
+261	Overall Dress	False	0	1	5
+262	Stripped Tights	False	0	1	5
+263	Chef Hat	False	0	1	5
+264	Cement Steps	False	0	1	5
+265	Water Tank Plan	False	0	1	0
+266	Chef Jacket	False	0	1	5
+267	Chef Pants	False	0	1	5
+268	Orange Shorts	False	0	1	5
+269	Orange T-Shirt	False	0	1	5
+270	Brown Sandals	False	0	1	5
+271	Hedge	False	0	1	0
+272	Roo Poo	False	0	1	5
+273	Palm Wood Lamp Post	False	0	1	0
+274	Palm Wood Gate	False	0	1	0
+275	Fertilizer	False	0	1	0
+276	Recycling Bin	False	0	1	0
+277	Bomb	False	0	1	5
+278	Sprinkler	False	0	1	0
+279	Aviator Sun Glasses	False	0	1	5
+280	Eye Patch	False	0	1	5
+281	Fake Mustache	False	0	1	5
+282	Modern Glasses	False	0	1	5
+283	Modern Sun Glasses	False	0	1	5
+284	Monocle	False	0	1	5
+285	Old School Glasses	False	0	1	5
+286	Round Glasses	False	0	1	5
+287	Round Sun Glasses	False	0	1	5
+288	Small Glasses	False	0	1	5
+289	Small Sun Glasses	False	0	1	5
+290	Square Glasses	False	0	1	5
+291	Square Sun Glasses	False	0	1	5
+292	Jolly Beard	False	0	1	5
+293	Jolly Hat	False	0	1	5
+294	Jolly Pants	False	0	1	5
+295	Jolly Shirt	False	0	1	5
+296	Jolly Shoes	False	0	1	5
+297	Bananas	False	0	1	5
+298	Termite Nest	False	0	1	5
+299	Dink	False	0	1	5
+300	Apple	False	0	1	5
+301	Hard Wood Log	False	0	1	5
+302	Animal Trap	False	0	1	0
+303	Scythe	True	1000	3	15
+304	Table Saw	False	0	1	5
+305	Wood Plank	False	0	1	5
+306	Palm Wood Plank	False	0	1	5
+307	Hard Wood Plank	False	0	1	5
+308	Raw Drumstick	False	0	1	5
+309	Pearl	False	0	1	5
+310	Cooked Drumstick	False	0	1	5
+311	Magic Tome	False	0	1	0
+312	Magic Shovel of Dirt	False	0	1	1
+313	Grass Seed	False	0	0	0
+314	Palm Wood Path	False	0	1	0
+315	Palm Wood Steps	False	0	1	5
+316	Gum Nut	False	0	1	5
+317	Pine Cone	False	0	1	5
+318	Palm Tree Seed	False	0	1	5
+319	Sleeping Bag	False	0	1	5
+320	Kale	False	0	1	5
+321	Kale Seeds	False	0	1	5
+322	Potato	False	0	1	5
+323	Potato Seeds	False	0	1	5
+324	Wheat	False	0	1	5
+325	Wheat Seeds	False	0	1	5
+326	Watermelon Seeds	False	0	1	5
+327	Watermelon	False	0	1	5
+328	Pumpkin	False	0	1	5
+329	Pumpkin Seeds	False	0	1	5
+330	Onion	False	0	1	5
+331	Onion Seeds	False	0	1	5
+332	Visiting Site Deed	False	0	1	0
+333	Carp	False	0	1	0
+334	Eyestripe Surgeon Fish	False	0	1	0
+335	Black & White Snapper	False	0	1	0
+336	Boofhead Catfish	False	0	1	0
+337	Murray Cod	False	0	1	0
+338	Eel Tailed Catfish	False	0	1	0
+339	Stingray	False	0	1	0
+340	MotorBike	False	0	1	5
+341	Bird Coop	False	0	1	0
+342	Animal Shop Deed	False	0	1	0
+343	Animal Feeder	False	0	1	0
+344	Animal Food	False	0	1	0
+345	Chicken Egg	False	0	1	5
+346	Rock Path	False	0	1	0
+347	Animal Stall	False	0	1	0
+348	Vombat Whistle	False	0	1	0
+349	Milking Bucket	False	0	1	5
+350	Milk	False	0	1	5
+351	Wooden Flower Bed	False	0	1	0
+352	Hedge Arch	False	0	1	0
+353	Diving Knife	False	0	3	10
+354	Pink Bow Hat	False	0	1	5
+355	Sun Hat	False	0	1	5
+356	Gangsta Hat	False	0	1	5
+357	Emu Mount	False	0	1	5
+358	Brick Fountain	False	0	1	0
+359	Cooking Table	False	0	1	0
+360	Lamington	False	0	1	5
+361	Fish and Chips	False	0	1	5
+362	Fruit Salad	False	0	1	5
+363	Garden Salad	False	0	1	5
+364	Hearty Stew	False	0	1	5
+365	Desert Rose Pot	False	0	1	5
+366	Fruit Bowl	False	0	1	5
+367	Alarm Clock	False	0	1	5
+368	Regal Clock	False	0	1	5
+369	Red Lava Lamp	False	0	1	5
+370	Roo Plush	False	0	1	5
+371	Basic Wooden Floor	False	0	1	0
+372	Basic Wooden Wall	False	0	1	0
+373	Dainty Floor	False	0	1	0
+374	Regal Rug	False	0	1	0
+375	Dainty Wall	False	0	1	0
+376	Checkered Floor	False	0	1	0
+377	Basic White Wall	False	0	1	0
+378	Light Blue Wall	False	0	1	0
+379	Checkered Wall	False	0	1	0
+380	Museum Deed	False	0	1	0
+381	Chequer Vest	False	0	1	5
+382	Old Key	False	0	1	0
+383	Quarry	False	0	1	5
+384	Old Gear	False	0	1	0
+385	Yellow Hang Glider	False	0	3	10
+386	Candle hat	False	0	1	5
+387	Basic Spear	True	250	4	15
+388	Chicken Whistle	False	0	1	0
+389	Basic Hammer	True	250	8	20
+390	Toad Skin	False	0	1	5
+391	Bulletin Board Deed	False	0	1	0
+392	Keg	False	0	1	5
+393	Wattle Brew	False	0	1	5
+394	Camera	False	0	20	20
+395	Animal Collection Point	False	0	1	0
+396	Desert Rose	False	0	1	5
+397	Billy Button	False	0	1	5
+398	Royal Bluebell	False	0	1	5
+399	Desert Pea	False	0	1	5
+400	Common Heath	False	0	1	5
+401	Town Hall	False	0	1	0
+402	Animal Shears	False	0	1	5
+403	Wool	False	0	1	5
+404	Animal Den	False	0	1	0
+405	Blueprint	False	0	1	5
+406	Pink Polka Dot Pants	False	0	1	5
+407	Pink Polka Dot Shirt	False	0	1	5
+408	Pink Polka dot Shoes	False	0	1	5
+409	Pink Polka Dot Dress	False	0	1	5
+410	Orange Dino Shirt	False	0	1	5
+411	Skull Shirt	False	0	1	5
+412	Feather Shirt	False	0	1	5
+413	Black Baseball Cap	False	0	1	5
+414	White Baseball Cap	False	0	1	5
+415	White Sweat Pants	False	0	1	5
+416	Brown Sand Shoes	False	0	1	5
+417	Camo Cap	False	0	1	5
+418	Camo Dress	False	0	1	5
+419	Camo Pants	False	0	1	5
+420	Camo Shirt	False	0	1	5
+421	Camo Boots	False	0	1	5
+422	Cargo Pants	False	0	1	5
+423	Blue Stripe Shirt	False	0	1	5
+424	Green Sand Shoes	False	0	1	5
+425	Orange Cargo Pants	False	0	1	5
+426	Orange Sand Shoes	False	0	1	5
+427	Orange Stripe Shirt	False	0	1	5
+428	Straw Sun Hat	False	0	1	5
+429	Red Puffy Jacket	False	0	1	5
+430	Blue Puffy Jacket	False	0	1	5
+431	Green Puffy Jacket	False	0	1	5
+432	Purple Puffy Jacket	False	0	1	5
+433	Blue Ugly Sweater	False	0	1	5
+434	Blue Cuffed Pants	False	0	1	5
+435	Green Cuffed Pants	False	0	1	5
+436	Purple Cuffed Pants	False	0	1	5
+437	Red Cuffed Pants	False	0	1	5
+438	Pink Singlet	False	0	1	5
+439	Red Singlet	False	0	1	5
+440	Red Shorts	False	0	1	5
+441	Black Singlet	False	0	1	5
+442	Black Shorts	False	0	1	5
+443	Swimming Goggles	False	0	1	5
+444	Punk Goggles	False	0	1	5
+445	Yellow Gum Boots	False	0	1	5
+446	Rain Coat	False	0	1	5
+447	Rain Hat	False	0	1	5
+448	Blue Stripe dress	False	0	1	5
+449	Orange Stripe dress	False	0	1	5
+450	Gacha Machine	False	0	1	5
+451	Basic Bench	False	0	1	5
+452	Scarecrow	False	0	1	5
+453	Brick Flower Bed	False	0	1	0
+454	Recycling Bin	False	0	1	0
+455	Small Rock	False	0	1	5
+456	Tin Ore	False	0	1	5
+457	Crude Axe	False	0	3	10
+458	Crude Furnace	False	0	1	5
+459	Tent	False	0	1	0
+460	Tin Bar	False	0	1	5
+461	Flagpole	False	0	1	0
+462	Base Tent	False	0	1	0
+463	Picket Fence	False	0	1	0
+464	Picket Gate	False	0	1	0
+465	Skull Mask	False	0	1	5
+466	Tin Sheet	False	0	1	5
+467	Dog Kennel	False	0	1	0
+468	Dog Whistle	False	0	1	0
+469	Green Pattern Wall	False	0	1	0
+470	Blue Pattern Wall	False	0	1	0
+471	Red Pattern Wall	False	0	1	0
+472	Pink Pattern Wall	False	0	1	0
+473	Dark Wooden Wall	False	0	1	0
+474	Dark Wooden Floor	False	0	1	0
+475	Pink Carpet	False	0	1	0
+476	Basic Blue Wallpaper	False	0	1	0
+477	Basic Green Wallpaper	False	0	1	0
+478	Basic Pink Wallpaper	False	0	1	0
+479	Basic Red Wall	False	0	1	0
+480	Bank Deed	False	0	1	0
+481	Crafting Table	False	0	1	0
+482	Tiki Torch	False	0	1	0
+483	Crude Fence	False	0	1	0
+484	Bonytongue	False	0	1	0
+485	Green Flat Cap	False	0	1	5
+486	Pirate Pants	False	0	1	5
+487	Pirate Boots	False	0	1	5
+488	Pirate Hat	False	0	1	5
+489	Ninja Hood	False	0	1	5
+490	Ninja Boots	False	0	1	5
+491	Ninja Pants	False	0	1	5
+492	Ninja Shirt	False	0	1	5
+493	Yellow Polka Dot Dress	False	0	1	5
+494	Yellow Plaid Dress	False	0	1	5
+495	Blue Plaid Dress	False	0	1	5
+496	Brown Overall Dress	False	0	1	5
+497	Green Overall Dress	False	0	1	5
+498	Green Cardigan Dress	False	0	1	5
+499	Pink Cardigan Dress	False	0	1	5
+500	Green Bow Hat	False	0	1	5
+501	Old Straw Hat	False	0	1	5
+502	Donation Box	False	0	1	0
+503	Weather Station	False	0	1	0
+504	Green Flannelette Shirt	False	0	1	5
+505	Green Plaid Pants	False	0	1	5
+506	Blue Plaid Pants	False	0	1	5
+507	Orange Flanney Shirt	False	0	1	5
+508	Orange Plaid Pants	False	0	1	5
+509	Red Plaid Pants	False	0	1	5
+510	Orange Flat Cap	False	0	1	5
+511	Red Flat Cap	False	0	1	5
+512	Blue Flat Cap	False	0	1	5
+513	Blue Flanney Dress	False	0	1	5
+514	Green Flannelette Dress	False	0	1	5
+515	Orange Flanney Dress	False	0	1	5
+516	Red Flanney Dress	False	0	1	5
+517	Guitar	False	0	1	0
+518	Guest House Deed	False	0	1	0
+519	Guest House Deed	False	0	1	0
+520	Guest House Deed	False	0	1	0
+521	Player Shed	False	0	1	0
+522	Eastern Chair	False	0	1	5
+523	Eastern Seat	False	0	1	5
+524	Eastern Bed	False	0	1	5
+525	Eastern Bedside Table	False	0	1	5
+526	Eastern Bookshelf	False	0	1	5
+527	Eastern Wardrobe	False	0	1	5
+528	Eastern Coffee Table	False	0	1	5
+529	Eastern Couch	False	0	1	5
+530	Eastern Table	False	0	1	5
+531	Eastern Lamp	False	0	1	5
+532	Eastern Floor	False	0	1	0
+533	Eastern Wall	False	0	1	0
+534	Red Wood Floor	False	0	1	0
+535	Small Stack of Books	False	0	1	5
+536	Wombie Bank	False	0	1	5
+537	Billy Button Pot	False	0	1	5
+538	Royal Bluebell Pot	False	0	1	5
+539	Rattan Bed	False	0	1	5
+540	Rattan Bookshelf	False	0	1	5
+541	Rattan Cabinet	False	0	1	5
+542	Rattan Chair	False	0	1	5
+543	Rattan Coffee Table	False	0	1	5
+544	Rattan Couch	False	0	1	5
+545	Rattan Table	False	0	1	5
+546	Rattan Floor	False	0	1	0
+547	Rattan Lamp	False	0	1	5
+548	Rattan Seat	False	0	1	5
+549	Rattan Bedside Table	False	0	1	5
+550	Rattan Wall	False	0	1	0
+551	Nordic Bed	False	0	1	5
+552	Nordic Bedside Table	False	0	1	5
+553	Nordic Bookshelf	False	0	1	5
+554	Nordic Cabinet	False	0	1	5
+555	Nordic Chair	False	0	1	5
+556	Nordic Coffee Table	False	0	1	5
+557	Nordic Couch	False	0	1	5
+558	Nordic Table	False	0	1	5
+559	Nordic Floor	False	0	1	0
+560	Nordic Lamp	False	0	1	5
+561	Nordic Seat	False	0	1	5
+562	Nordic Wall	False	0	1	0
+563	Pink Bed	False	0	1	5
+564	Pink Bedside Table	False	0	1	5
+565	Pink Bookshelf	False	0	1	5
+566	Pink Cabinet	False	0	1	5
+567	Pink Chair	False	0	1	5
+568	Pink Coffee Table	False	0	1	5
+569	Pink Couch	False	0	1	5
+570	Pink Table	False	0	1	5
+571	Pink Lamp	False	0	1	5
+572	Pink Seat	False	0	1	5
+573	Cube Floor	False	0	1	0
+574	Cube Wall	False	0	1	0
+575	Cooked Apple	False	0	1	5
+576	Cooked Banana	False	0	1	5
+577	Cooked Bush Lime	False	0	1	5
+578	Palm Wood Bridge	False	0	1	0
+579	Meadow Katydid	False	0	1	5
+580	Rhinoceros Beetle	False	0	1	5
+581	Goliath stick	False	0	1	5
+582	Bogong Moth	False	0	1	5
+583	Scarlet Jezebel Butterfly	False	0	1	5
+584	Raw Giant Drumstick	False	0	1	5
+585	Hot Cylinder	False	0	1	0
+586	Green Board	False	0	1	0
+587	Old Wheel	False	0	1	0
+588	Shiny Disc	False	0	1	0
+589	North Teletower	False	0	1	0
+590	East Teletower	False	0	1	0
+591	South Teletower	False	0	1	0
+592	West Teletower	False	0	1	0
+593	Copper Spear	True	250	7	25
+594	Iron Spear	True	250	10	30
+595	Copper Hammer	True	250	13	30
+596	Iron Hammer	True	250	18	40
+597	Island Map	False	0	1	5
+598	Adventurer's Journal	False	0	1	5
+599	Jack Hammer	False	2500	8	15
+600	Jet Ski	False	0	1	5
+601	Glass Bulb	False	0	1	0
+602	Smooth Slate	False	0	1	0
+603	Big Chicken Egg	False	0	1	5
+604	Rowboat	False	0	1	5
+605	Blackfish	False	0	1	0
+606	Galaxias	False	0	1	0
+607	Silver Perch	False	0	1	0
+608	Anchovy	False	0	1	0
+609	Goat Fish	False	0	1	0
+610	Barracuda	False	0	1	0
+611	Blob Fish	False	0	1	0
+612	Saratoga	False	0	1	0
+613	Tarpon	False	0	1	0
+614	Black Cricket	False	0	5	5
+615	Monarch Butterfly	False	0	1	5
+616	Lacewing	False	0	1	5
+617	Emperor DragonFly	False	0	1	5
+618	Pygmyfly	False	0	1	5
+619	Tau Emerald Dragonfly	False	0	1	5
+620	Ladybird	False	0	1	5
+621	Tiger Moth	False	0	1	5
+622	Duskhawker Dragonfly	False	0	1	5
+623	Largidae	False	0	1	5
+624	Huntsman	False	0	1	5
+625	Blue Moon Butterfly	False	0	1	5
+626	Fiddler Beetle	False	0	1	5
+627	Stag Beetle	False	0	1	5
+628	Marlin	False	0	1	0
+629	Grayling	False	0	1	0
+630	Hercules Moth	False	0	1	5
+631	Centipede	False	0	1	5
+632	Short Finned Eel	False	0	1	0
+633	Spinning Wheel	False	0	1	5
+634	Cloth	False	0	1	5
+635	Cheese Maker	False	0	1	5
+636	Cheese	False	0	1	5
+637	High Quality Milk	False	0	1	5
+638	High Quality Cheese	False	0	1	5
+639	Old Spring	False	0	1	0
+640	Sliding Handle	False	0	1	0
+641	Button Board	False	0	1	0
+642	Bright Wire	False	0	1	0
+643	Old Toy	False	0	1	0
+644	Ear Hats	False	0	1	0
+645	Old Contraption	False	0	1	0
+646	Cooked Giant Drumstick	False	0	1	5
+647	Cooked Croco Meat	False	0	1	5
+648	Croco Meat	False	0	1	5
+649	Mangrove Stick	False	0	1	5
+650	Bottle Tree Wood	False	0	1	5
+651	Red Hooded Cap	False	0	1	5
+652	Pilot Goggles	False	0	1	5
+653	Googly Eyes	False	0	1	5
+654	Hero Mask	False	0	1	5
+655	Bunny Hood	False	0	1	5
+656	Yellow Sweats	False	0	1	5
+657	Yellow Sneakers	False	0	1	5
+658	Yellow B Shirt	False	0	1	5
+659	Mine Pass	False	0	1	0
+660	Fern Seed	False	0	1	0
+661	Bush Seed	False	0	1	0
+662	Base Tent Deed	False	0	1	0
+663	Visiting Site Deed	False	0	1	0
+664	Flame Sac	False	0	1	5
+665	Basic Green Rug	False	0	1	0
+666	Basic Red Rug	False	0	1	0
+667	Bank Wall	False	0	1	0
+668	Grass Floor	False	0	1	0
+669	Cooked Cactus Fig	False	0	1	5
+670	Wooden Item Sign	False	0	1	0
+671	Cloud Wall	False	0	1	0
+672	Retro Flower Wall	False	0	1	0
+673	Retro Floor	False	0	1	0
+674	Basic Blue Rug	False	0	1	0
+675	Basic Pink Rug	False	0	1	0
+676	Basic Purple Rug	False	0	1	0
+677	Basic Orange Rug	False	0	1	0
+678	Marble Floor	False	0	1	0
+679	Bug Book	False	0	1	0
+680	Fish Book	False	0	1	0
+681	Plant Book	False	0	1	0
+682	Compactor	False	400	1	15
+683	Jackaroo Mask	False	0	1	5
+684	Helicopter	False	0	1	5
+685	Meat Pie	False	0	1	5
+686	Pavlova	False	0	1	5
+687	Dagwood Dog	False	0	1	5
+688	Croc Teeth Bat	True	250	6	15
+689	Flaming Bat	True	300	8	15
+690	Quiche	False	0	1	5
+691	Meat on a stick	False	0	1	5
+692	Water Tank	False	0	1	0
+693	Silo	False	0	1	0
+694	Blackwood Seed	False	0	1	5
+695	Fake Beard	False	0	1	5
+696	Cement Fence	False	0	1	0
+697	Simple Animal Trap	False	0	1	0
+698	Bottle Brush	False	0	1	5
+699	Copper Watering Can	False	60	1	10
+700	Copper Watering Can	False	0	1	10
+701	Iron Watering Can	False	120	1	10
+702	Iron Watering Can	False	0	1	10
+703	Compost Bin	False	0	1	5
+704	Shovel of Sand	False	600	1	1
+705	Shovel of Mud	False	600	1	1
+706	Shovel of Red Sand	False	600	1	1
+707	Fir Grass Seeds	False	0	0	0
+708	Tropical Grass Seeds	False	0	0	0
+709	Long Shoes	False	0	1	5
+710	Tele Pad	False	0	1	0
+711	Tele Caller	False	15	1	0
+712	Black Jacket	False	0	1	5
+713	Black Jeans	False	0	1	5
+714	White Pants	False	0	1	5
+715	White T-Shirt	False	0	1	5
+716	Black Flat Cap	False	0	1	5
+717	Black Flanney Shirt	False	0	1	5
+718	Black Plaid Pants	False	0	1	5
+719	Yellow Shorts	False	0	1	5
+720	Yellow T-Shirt	False	0	1	5
+721	Yellow Boots	False	0	1	5
+722	White Boots	False	0	1	5
+723	Face Bandana Green	False	0	1	5
+724	Face Bandana Black	False	0	1	5
+725	Face Bandana Blue	False	0	1	5
+726	Face Bandana Orange	False	0	1	5
+727	Face Bandana Red	False	0	1	5
+728	Large Round Glasses	False	0	1	5
+729	Retro Point Glasses	False	0	1	5
+730	Retro Point Sun Glasses	False	0	1	5
+731	Triangle Glasses	False	0	1	5
+732	Shutter Shades	False	0	1	5
+733	Round Horned Glasses	False	0	1	5
+734	Round Horned Sun Glasses	False	0	1	5
+735	Yellow Dress	False	0	1	5
+736	Rainbow Dress	False	0	1	5
+737	Black Plaid Dress	False	0	1	5
+738	Rainbow T-Shirt	False	0	1	5
+739	Rainbow Pants	False	0	1	5
+740	Rainbow Sneakers	False	0	1	5
+741	Red Nose	False	0	1	5
+742	Beak	False	0	1	5
+743	Black Coat	False	0	1	5
+744	Black Ripped Jeans	False	0	1	5
+745	House Move Deed	False	0	1	0
+746	Jelly	False	0	1	5
+747	Jelly Brew	False	0	1	5
+748	Bottle Brush Brew	False	0	1	5
+749	Advanced Sprinkler	False	0	1	0
+750	Vombat Poo	False	0	1	5
+751	White Mask	False	0	1	5
+752	Black Mask	False	0	1	5
+753	Windmill	False	0	1	0
+754	Flower Pot	False	0	1	5
+755	Gum Wood Path	False	0	1	0
+756	Hard Wood Path	False	0	1	0
+757	Hard Wood Bridge	False	0	1	0
+758	Gum Wood Bridge	False	0	1	0
+759	Brick Bridge	False	0	1	0
+760	Gum Wood Fence	False	0	1	0
+761	Hard Wood Fence	False	0	1	0
+762	Tin Fence	False	0	1	0
+763	Big Fried Egg	False	0	1	5
+764	Fried Egg	False	0	1	5
+765	Gum Wood Gate	False	0	1	0
+766	Hard Wood Gate	False	0	1	0
+767	Tin Gate	False	0	1	0
+768	Copper Hoe	True	400	1	1
+769	Brick Well	False	0	1	0
+770	Quandong	False	0	1	5
+771	Cooked Quandong	False	0	1	5
+772	Flake	False	0	1	5
+773	Cooked Flake	False	0	1	5
+774	Wheelbarrow	False	0	1	5
+775	Iron Path	False	0	1	0
+776	Bottle Brush Seed	False	0	1	5
+777	Wattle Seed	False	0	1	5
+778	Copper Fishing Rod	False	350	1	25
+779	Iron Fishing Rod	False	650	1	25
+780	Chicken Hood	False	0	1	5
+781	Wizard Hat	False	0	1	5
+782	Wizard Robe	False	0	1	5
+783	Witch Hat	False	0	1	5
+784	Witch Robe	False	0	1	5
+785	Green Chair	False	0	1	5
+786	Green Seat	False	0	1	5
+787	Green Bed	False	0	1	5
+788	Green Bedside Table	False	0	1	5
+789	Green Bookshelf	False	0	1	5
+790	Green Cabinet	False	0	1	5
+791	Green Couch	False	0	1	5
+792	Green Coffee Table	False	0	1	5
+793	Green Table	False	0	1	5
+794	Green Lamp	False	0	1	5
+795	Town Hall Base Tent Upgrade	False	0	1	0
+796	Town Hall Deed	False	0	1	0
+797	Storage Barrel	False	0	1	0
+798	Lawn Mower	False	0	1	5
+799	Coconut	False	0	1	5
+800	Boogie Board	False	0	3	10
+801	Tractor	False	0	1	5
+802	Blue Paint	False	0	1	5
+803	Paint Remover	False	0	1	5
+804	Black Paint	False	0	1	5
+805	Green Paint	False	0	1	5
+806	Orange Paint	False	0	1	5
+807	Pink Paint	False	0	1	5
+808	Purple Paint	False	0	1	5
+809	Red Paint	False	0	1	5
+810	White Paint	False	0	1	5
+811	Yellow Paint	False	0	1	5
+812	Chrome Paint	False	0	1	5
+813	Gold Paint	False	0	1	5
+814	Buccinidae Shell	False	0	1	5
+815	Cassidae Shell	False	0	1	5
+816	Sand Dollar	False	0	1	5
+817	Tonnidae Shell	False	0	1	5
+818	Biscuit Sea Star	False	0	1	5
+819	Eleven-armed Sea Star	False	0	1	5
+820	Black Sea Cucumber	False	0	1	5
+821	Spiny Sea Urchin	False	0	1	5
+822	Pink Sea Urchin	False	0	1	5
+823	Purple Sea Urchin	False	0	1	5
+824	King Prawn	False	0	1	5
+825	Tiger Prawn	False	0	1	5
+826	Bay Bug	False	0	1	5
+827	Fresh Water Mussel	False	0	1	5
+828	Fresh Water Prawn	False	0	1	5
+829	Inland Crab	False	0	1	5
+830	Purple Mottled Crab	False	0	1	5
+831	Blue Mussel	False	0	1	5
+832	Cushion Sea Star	False	0	1	5
+833	White Yabbie	False	0	1	5
+834	Blue Sea Slug	False	0	1	5
+835	Croco Berley Box	False	0	1	0
+836	Devil Berley Box	False	0	1	0
+837	Shark Berley Box	False	0	1	0
+838	Battle Shovel	True	150	14	14
+839	Bone Bow	True	200	15	15
+840	Bone Arrow	False	0	1	5
+841	Gold Pocket Watch	False	0	1	5
+842	Boom Box	False	0	1	5
+843	Tomato	False	0	1	5
+844	Tomato Seeds	False	0	1	5
+845	Green Bean	False	0	1	5
+846	Green Bean Seeds	False	0	1	5
+847	Empty Miners Helmet	False	180	1	5
+848	Wooden Chest	False	0	1	5
+849	Doggo Collar	False	0	3	10
+850	Mu Saddle	False	0	3	10
+851	Copper Bulb Lamp	False	0	1	0
+852	Cooked Prime Meat	False	0	1	5
+853	Raw Prime Meat	False	0	1	5
+854	Repair Table	False	0	1	0
+855	Repair Kit	False	0	1	5
+856	Charging Station	False	0	1	0
+857	Old Sign	False	0	1	0
+858	Iron Hoe	True	400	1	1
+859	Bat Wing	False	0	1	6
+860	Grain Mill	False	0	1	5
+861	Flour	False	0	1	5
+862	Sugar	False	0	1	5
+863	Worm Farm	False	0	1	0
+864	Machine Manual	False	0	1	0
+865	Warm Nordic Bed	False	0	1	5
+866	Warm Nordic Bedside Table	False	0	1	5
+867	Warm Nordic Bookshelf	False	0	1	5
+868	Warm Nordic Cabinet	False	0	1	5
+869	Warm Nordic Chair	False	0	1	5
+870	Warm Nordic Coffee Table	False	0	1	5
+871	Warm Nordic Couch	False	0	1	5
+872	Warm Nordic Table	False	0	1	5
+873	Tall Book Shelf	False	0	1	5
+874	Warm Nordic Lamp	False	0	1	5
+875	Warm Nordic Seat	False	0	1	5
+876	Red Hang Glider	False	0	3	10
+877	Butter Glider	False	0	3	10
+878	Dark Wooden Table	False	0	1	5
+879	Dark Wooden Seat	False	0	1	5
+880	Dark Wooden Couch	False	0	1	5
+881	Dark Wooden Bedside Table	False	0	1	5
+882	Tea Pot	False	0	1	5
+883	Small Pot	False	0	1	5
+884	Rattan Basket	False	0	1	5
+885	Palm Wood Bench	False	0	1	5
+886	Hard Wood Bench	False	0	1	5
+887	Gum Wood Bench	False	0	1	5
+888	Iron Wood Bench	False	0	1	5
+889	Festoon Lights	False	0	1	5
+890	Mushroom Lamp	False	0	1	0
+891	Jackaroo Statue	False	0	1	0
+892	Bush Devil Statue	False	0	1	0
+893	Bread	False	0	1	5
+894	Fairy Bread	False	0	1	5
+895	Pastie	False	0	1	5
+896	Damper	False	0	1	5
+897	Sausage Roll	False	0	1	5
+898	Prime Roast	False	0	1	5
+899	Golden Jackaroo Statue	False	0	1	0
+900	Golden Bush Devil Statue	False	0	1	0
+901	Iron Cement Fence	False	0	1	0
+902	Copper Top Fence	False	0	1	0
+903	Umbrella	False	250	0	0
+904	Bulletin Board	False	0	1	0
+905	Thunder Sac	False	0	1	5
+906	Bat Zapper	False	150	0	0
+907	Gum Wood Steps	False	0	1	5
+908	Hard Wood Steps	False	0	1	5
+909	Gum Wood Lamp Post	False	0	1	0
+910	Hard Wood Lamp Post	False	0	1	0
+911	Copper Scythe	True	1000	5	15
+912	Iron Scythe	True	1000	7	15
+913	Cement Bird Bath	False	0	1	0
+914	Hardwood Crude Fence	False	0	1	0
+915	Froggy Hood	False	0	1	5
+916	Cat Hood	False	0	1	5
+917	Yellow Print Dress	False	0	1	5
+918	Yellow Print Pants	False	0	1	5
+919	Brown Boat Shoes	False	0	1	5
+920	Floppy Straw Hat	False	0	1	5
+921	Bunting Festoon	False	0	1	5
+922	House Customisation Kit	False	0	1	5
+923	Gum Wood Flag Post	False	0	1	0
+924	Palm Wood Flag Post	False	0	1	0
+925	Dirt Printer	False	100	1	15
+926	Mighty Seeds	False	0	1	5
+927	Mighty Spread	False	0	1	5
+928	Hard Wood Flag Post	False	0	1	0
+929	Black Wooden Crate	False	0	1	0
+930	Blue Wooden Crate	False	0	1	0
+931	Chrome Wooden Crate	False	0	1	0
+932	Gold Wooden Crate	False	0	1	0
+933	Green Wooden Crate	False	0	1	0
+934	Orange Wooden Crate	False	0	1	0
+935	Pink Wooden Crate	False	0	1	0
+936	Purple Wooden Crate	False	0	1	0
+937	Red Wooden Crate	False	0	1	0
+938	White Wooden Crate	False	0	1	0
+939	Yellow Wooden Crate	False	0	1	0
+940	Black Wooden Chest	False	0	1	5
+941	Blue Wooden Chest	False	0	1	5
+942	Chrome Wooden Chest	False	0	1	5
+943	Gold Wooden Chest	False	0	1	5
+944	Green Wooden Chest	False	0	1	5
+945	Orange Wooden Chest	False	0	1	5
+946	Pink Wooden Chest	False	0	1	5
+947	Purple Wooden Chest	False	0	1	5
+948	Red Wooden Chest	False	0	1	5
+949	White Wooden Chest	False	0	1	5
+950	Yellow Wooden Chest	False	0	1	5
+951	Salon Deed	False	0	1	0
+952	Butterfly Orchid	False	0	1	5
+953	Glow Bug	False	0	1	5
+954	Deep Fish	False	0	1	0
+955	Bat Glider	False	0	3	10
+956	Alpha Hammer	True	250	22	50
+957	Alpha Antler	False	0	1	5
+958	Alpha Scale	False	0	1	5
+959	Alpha Spear	True	250	14	30
+960	Alpha Bat	True	300	12	15
+961	Pattern Stone Path	False	0	1	0
+962	Panda Hood	False	0	1	5
+963	Alpha Eye	False	0	1	5
+964	Cobblestone Path	False	0	1	0
+965	Cobblestone Fence	False	0	1	0
+966	Rock Edge Path	False	0	1	0
+967	Cobblestone Road	False	0	1	0
+968	Cobblestone Road Lines	False	0	1	0
+969	Cooked Freshwater Fish	False	0	1	0
+970	Cooked Saltwater Fish	False	0	1	0
+971	Detective Pants	False	0	1	5
+972	Trench Coat	False	0	1	5
+973	Black Boat Shoes	False	0	1	5
+974	P.I Hat	False	0	1	5
+975	Dark Detective Pants	False	0	1	5
+976	Dark Trench Coat	False	0	1	5
+977	Dark P.I Hat	False	0	1	5
+978	Blue Summer Dress	False	0	1	5
+979	Green Summer Dress	False	0	1	5
+980	Minimalist Bed	False	0	1	5
+981	Minimalist Bedside Table	False	0	1	5
+982	Minimalist Book Shelf	False	0	1	5
+983	Minimalist Chair	False	0	1	5
+984	Minimalist Couch	False	0	1	5
+985	Minimalist Dresser	False	0	1	5
+986	Minimalist Lamp	False	0	1	5
+987	Minimalist Seat	False	0	1	5
+988	White Brick Wallpaper	False	0	1	0
+989	Red Brick Wallpaper	False	0	1	0
+990	Green Brick Wallpaper	False	0	1	0
+991	Dark Tiles	False	0	1	0
+992	Bright Tiles	False	0	1	0
+993	Mascot Head	False	0	1	5
+994	Mascot Legs	False	0	1	5
+995	Mascot Torso	False	0	1	5
+996	Bunk Bed	False	0	1	5
+997	Cooked Blob Fish	False	0	1	0
+998	Honey Comb Path	False	0	1	0
+999	Warm Nordic Wall	False	0	1	0
+1000	Warm Nordic Floor	False	0	1	0
+1001	Bottle Tree Seed	False	0	1	5
+1002	Mushroom Path	False	0	1	0
+1003	Pearl Path	False	0	1	0
+1004	Melon Scarecrow	False	0	1	5
+1005	Elf Ears	False	0	1	5
+1006	Elf Hat	False	0	1	5
+1007	Elf Pants	False	0	1	5
+1008	Elf Shirt	False	0	1	5
+1009	Elf Shoes	False	0	1	5
+1010	Festive Tree	False	0	1	5
+1011	Festive Scarecrow	False	0	1	5
+1012	Festive Crate	False	0	1	0
+1013	Festive Jackaroo	False	0	1	0
+1014	Cherries	False	0	1	5
+1015	Cooked Cherries	False	0	1	5
+1016	Fireplace	False	0	1	5
+1017	Mini Festive Tree	False	0	1	5
+1018	Festive Boom Box	False	0	1	5
+1019	Festive Towel	False	0	1	5
+1020	Festive Umbrella	False	0	1	0
+1021	Candy Cane	True	350	7	15
+1022	Jolly Dress	False	0	1	5
+1023	Striped Boogie Board	False	0	3	10
+1024	Star Light	False	0	1	5
+1025	Candy Pickaxe	True	250	2	16
+1026	Candy Axe	True	250	3	15
+1027	Gingerbread Path	False	0	1	0
+1028	Festive Fence	False	0	1	0
+1029	Pleep Whistle	False	0	1	0
+1030	Holly Wreath	False	0	1	5
+1031	Tuckshop Deed	False	0	1	0
+1032	Marble Path	False	0	1	0
+1033	Coffee Seeds	False	0	1	5
+1034	Coffee Bean	False	0	1	5
+1035	Roasted Coffee Beans	False	0	1	5
+1036	Coffee	False	0	1	5
+1037	Signwriting  Table	False	0	1	0
+1038	A Letter Statue	False	0	1	0
+1039	B Letter Statue	False	0	1	0
+1040	C Letter Statue	False	0	1	0
+1041	D Letter Statue	False	0	1	0
+1042	E Letter Statue	False	0	1	0
+1043	F Letter Statue	False	0	1	0
+1044	G Letter Statue	False	0	1	0
+1045	H Letter Statue	False	0	1	0
+1046	I Letter Statue	False	0	1	0
+1047	J Letter Statue	False	0	1	0
+1048	K Letter Statue	False	0	1	0
+1049	L Letter Statue	False	0	1	0
+1050	M Letter Statue	False	0	1	0
+1051	N Letter Statue	False	0	1	0
+1052	O Letter Statue	False	0	1	0
+1053	P Letter Statue	False	0	1	0
+1054	Q Letter Statue	False	0	1	0
+1055	R Letter Statue	False	0	1	0
+1056	S Letter Statue	False	0	1	0
+1057	T Letter Statue	False	0	1	0
+1058	U Letter Statue	False	0	1	0
+1059	V Letter Statue	False	0	1	0
+1060	W Letter Statue	False	0	1	0
+1061	X Letter Statue	False	0	1	0
+1062	Y Letter Statue	False	0	1	0
+1063	Z Letter Statue	False	0	1	0
+1064	Hand Written sign	False	0	1	0
+1065	Signwriting  Pen	False	0	1	0
+1066	Iron Sign	False	0	1	0
+1067	Gum Wood Direction Sign	False	0	1	0
+1068	Palm Wood Direction Sign	False	0	1	0
+1069	Hard Wood Direction Sign	False	0	1	0
+1070	Tin Direction Sign	False	0	1	0
+1071	Sail Boat	False	0	1	5
+1072	Jackaroo Crossing Sign	False	0	1	0
+1073	Lattice Fence	False	0	1	0
+1074	Jackaroo Paw	False	0	1	5
+1075	Flannel Flower	False	0	1	5
+1076	River Daisy	False	0	1	5
+1077	Orange Paper Daisy	False	0	1	5
+1078	Gum Wood Flower Bed	False	0	1	0
+1079	Wide Gum Wood Bridge	False	0	1	0
+1080	Wide Hard Wood Bridge	False	0	1	0
+1081	Bird of Paradise	False	0	1	5
+1082	Glow Button	False	0	1	5
+1083	Trash Bin	False	0	1	5
+1084	Leaf Glider	False	0	3	10
+1085	Desert Pea Pot	False	0	1	5
+1086	River Daisy Pot	False	0	1	5
+1087	Flannel Flower Pot	False	0	1	5
+1088	Butterfly Orchid Pot	False	0	1	5
+1089	Orange Paper Daisy Pot	False	0	1	5
+1090	Pink Paper Daisy	False	0	1	5
+1091	White Paper Daisy	False	0	1	5
+1092	Wheelbarrow Flower Bed	False	0	1	0
+1093	Ruby Shard	False	0	1	5
+1094	Emerald Shard	False	0	1	5
+1095	Waterbed	False	0	1	0
+1096	Bottle of Clouds	False	10	1	0
+1097	Large Cement Fountain	False	0	1	0
+1098	Copper Flower Pot	False	0	1	0
+1099	Lilly Pilly Seed	False	0	1	5
+1100	Small Lilly Pilly Seed	False	0	1	5
+1101	Comp Bug Net	False	600	1	10
+1102	Gold Bug Comp Trophy	False	0	1	5
+1103	Silver Bug Comp Trophy	False	0	1	5
+1104	Bronze Bug Comp Trophy	False	0	1	5
+1105	Bridged Waterbed	False	0	1	0
+1106	Band Stand	False	0	1	0
+1107	Diving Helmet	False	0	1	5
+1108	Improved Chainsaw	False	2500	3	15
+1109	Empty Improved Chainsaw	False	2500	3	15
+1110	Balloon	False	250	0	0
+1111	Red Cloth Path	False	0	1	0
+1112	Sparkler	False	250	0	0
+1113	Mu Whistle	False	0	1	0
+1114	Camera Tripod	False	0	1	5
+1115	Wooden Swing	False	0	1	5
+1116	Lily Pad	False	0	1	5
+1117	Giant Lily Pad	False	0	1	5
+1118	Hard Wood Flower Bed	False	0	1	0
+1119	Portable Roof	False	0	1	0
+1120	Key-Cycler	False	0	1	0
+1121	Billy Can Kit	False	0	1	5
+1122	Tongs	False	0	1	5
+1123	Tape Measure	False	0	1	0
+1124	Jacaranda Sapling	False	0	1	5
+1125	Small Cement Fountain	False	0	1	0
+1126	Wattle Tea	False	0	1	5
+1127	Bottle Brush Tea	False	0	1	5
+1128	Croco Statue	False	0	1	0
+1129	Frilly Statue	False	0	1	0
+1130	Cement Planter	False	0	1	5
+1131	Vine	False	0	1	5
+1132	Vine Fence	False	0	1	0
+1133	Mossy Brick Path	False	0	1	0
+1134	Hard Wood Market Stall	False	0	1	5
+1135	Marble Fence	False	0	1	0
+1136	Post Box	False	0	1	0
+1137	Marble Pedestal	False	0	1	0
+1138	Marble Bench	False	0	1	5
+1139	Marble Pillar	False	0	1	0
+1140	Rope Fence	False	0	1	0
+1141	Gerse Shirt	False	0	1	5
+1142	Purple Jeans	False	0	1	5
+1143	Purple Sneakers	False	0	1	5
+1144	Orange Sneakers	False	0	1	5
+1145	KD Shirt	False	0	1	5
+1146	Orange Pants	False	0	1	5
+1147	White Shorts	False	0	1	5
+1148	Reaps Shirt	False	0	1	5
+1149	Lime Sneakers	False	0	1	5
+1150	Helmet	False	0	1	5
+1151	Stone Lantern	False	0	1	0
+1152	Sailor Hat	False	0	1	5
+1153	Sailor Pants	False	0	1	5
+1154	Sailor Shirt	False	0	1	5
+1155	Sailor Boots	False	0	1	5
+1156	Sailor Dress	False	0	1	5
+1157	Sport Glasses	False	0	1	5
+1158	Marble	False	0	1	5
+1159	Dinner Set	False	0	1	5
+1160	Stack of Plates	False	0	1	5
+1161	Bread Board	False	0	1	5
+1162	Wattle Brew Set	False	0	1	5
+1163	Ramp	False	0	1	5
+1164	Advanced Sling Shot	True	200	12	15
+1165	Berkonium Ore	False	0	1	5
+1166	Berkonium Bar	False	0	1	5
+1167	Plant Hammer	True	250	20	55
+1168	Raw Grub Meat	False	0	1	5
+1169	Cooked Grub Meat	False	0	1	5
+1170	Plant Book	False	0	1	0
+1171	Traffic Cone	False	0	1	5
+1172	Apple Jam	False	0	1	5
+1173	Banana Jam	False	0	1	5
+1174	Lime Jam	False	0	1	5
+1175	Quandong Jam	False	0	1	5
+1176	Red Hibiscus	False	0	1	5
+1177	Yellow Hibiscus	False	0	1	5
+1178	Wide Brick Bridge	False	0	1	0
+1179	Improved Dirt Printer	False	200	1	15
+1180	Empty Improved Dirt Printer	False	200	1	15
+1181	Vine Festoon	False	0	1	5
+1182	Stone Wand	True	250	0	0
+1183	Bottle Brush Vase	False	0	1	5
+1184	Potted Lilly Pilly	False	0	1	5
+1185	Painted Lady Butterfly	False	0	1	5
+1186	Grass Yellow Butterfly	False	0	1	5
+1187	Purple Azure Butterfly	False	0	1	5
+1188	Blast Furnace	False	0	1	5
+1189	Improved Table Saw	False	0	1	5
+1190	Ginger Shirt	False	0	1	5
+1191	Purple Shorts	False	0	1	5
+1192	Improved Jack Hammer	False	2500	8	15
+1193	Empty Improved Jack Hammer	False	2500	8	15
+1194	Improved Compactor	False	400	1	15
+1195	Empty Improved Compactor	False	400	1	15
+1196	Jurd Shirt	False	0	1	5
+1197	Mouth Almighty	False	0	1	0
+1198	Bee Hood	False	0	1	5
+1199	Stone Sign	False	0	1	0
+1200	Duck Canyon Shirt	False	0	1	5
+1201	Tree House Shirt	False	0	1	5
+1202	Soho Shirt	False	0	1	5
+1203	Spec Shirt	False	0	1	5
+1204	Tom Shirt	False	0	1	5
+1205	Penguin Hood	False	0	1	5
+1206	Finch Hood	False	0	1	5
+1207	Moxie Shirt	False	0	1	5
+1208	Tiger Hood	False	0	1	5
+1209	Tongue	False	0	1	5
+1210	Diggo Statue	False	0	1	0
+1211	Tongue Whip	True	250	5	0
+1212	Caito Shirt	False	0	1	5
+1213	RileyKS Shirt	False	0	1	5
+1214	Sandwich Chalkboard	False	0	1	0
+1215	Bushlime Box	False	0	1	5
+1216	Banana Box	False	0	1	5
+1217	Apple Box	False	0	1	5
+1218	Quandong Box	False	0	1	5
+1219	Party Horn	False	0	0	0
+1220	Snag	False	0	1	5
+1221	Balloon	False	250	0	0
+1222	Dinkum Shirt	False	0	1	5
+1223	JB Shirt	False	0	1	5
+1224	Prize Ticket	False	0	0	5
+1225	Dinkum Cap	False	0	1	5
+1226	Bubble Blower	False	0	0	0
+1227	Croco Plush	False	0	1	5
+1228	Frying pan	True	180	12	12
+1229	Magpie Plush	False	0	1	5
+1230	Mu Plush	False	0	1	5
+1231	Red Bar Stool	False	0	1	5
+1232	Raffle Wheel	False	0	1	5
+1233	Cape	False	0	1	5
+1234	Anniversary Balloons	False	0	1	5
+1235	Velvet Rope Fence	False	0	1	0
+1236	Red Carpet Path	False	0	1	0
+1237	Seaweed	False	0	0	0
+1238	Seaweed Soup	False	0	1	5
+1239	Bush Devil Plush	False	0	1	5
+1240	Camera Drone	False	0	1	5
+1241	Frilly Plush	False	0	1	5
+1242	Blue Hang Glider	False	0	3	10
+1243	Pink Hang Glider	False	0	3	10
+1244	Orange Hang Glider	False	0	3	10
+1245	Purple Hang Glider	False	0	3	10
+1246	Diggo Plush	False	0	1	5
+1247	Gum Wood Market Stall	False	0	1	5
+1248	Palm Wood Market Stall	False	0	1	5
+1249	Gum Wood Arch	False	0	1	0
+1250	Palm Wood Arch	False	0	1	0
+1251	Hard Wood Arch	False	0	1	0
+1252	Candelabra	False	0	1	5
+1253	White Gala Dress	False	0	1	5
+1254	Wide Palm Wood Bridge	False	0	1	0
+1255	Pincher Plant Plush	False	0	1	5
+1256	Fairy Light Wall	False	0	1	5
+1257	Tuxedo Jacket	False	0	1	5
+1258	Tuxedo Pants	False	0	1	5
+1259	Tuxedo Shoes	False	0	1	5
+1260	Vine Wall	False	0	1	5
+1261	Statue	False	0	1	0
+1262	Seamstress Dress	False	0	1	5
+1263	Lab Coat	False	0	1	5
+1264	Bouquet Pot	False	0	1	5
+1265	Black Hood	False	0	1	5
+1266	Ute	False	0	1	5
+1267	Red Hood	False	0	1	5
+1268	Tie Dye Pants	False	0	1	5
+1269	Tie Dye Shirt	False	0	1	5
+1270	Tie Dye Cap	False	0	1	5
+1271	Sugar Cane Crate	False	0	1	5
+1272	Cabbage Box	False	0	1	5
+1273	Carrot Box	False	0	1	5
+1274	Corn Box	False	0	1	5
+1275	Kale Box	False	0	1	5
+1276	Potato Box	False	0	1	5
+1277	Bottled Brush Set	False	0	1	5
+1278	Jelly Brew Set	False	0	1	5
+1279	Cooked Meat Plate	False	0	1	5
+1280	Cooked Drumstick Plate	False	0	1	5
+1281	Lamington Plate	False	0	1	5
+1282	Meat Pie Plate	False	0	1	5
+1283	Wheat Crate	False	0	1	5
+1284	Kanz Shirt	False	0	1	5
+1285	Tomato Box	False	0	1	5
+1286	Cheese Board	False	0	1	5
+1287	Cooked Croco Meat Plate	False	0	1	5
+1288	Pavlova Plate	False	0	1	5
+1289	Quiche Plate	False	0	1	5
+1290	Damper Plate	False	0	1	5
+1291	Sausage Roll Plate	False	0	1	5
+1292	Pastie Plate	False	0	1	5
+1293	Fairy Bread Plate	False	0	1	5
+1294	Egg Plate	False	0	1	5
+1295	Fish And Chips Plate	False	0	1	5
+1296	Fruit Salad Plate	False	0	1	5
+1297	Garden Salad Plate	False	0	1	5
+1298	Hearty Stew Plate	False	0	1	5
+1299	Prime Roast Plate	False	0	1	5
+1300	Onion Box	False	0	1	5
+1301	Watermelon Box	False	0	1	5
+1302	Pumpkin Box	False	0	1	5
+1303	Food Modeller	False	0	1	5
+1304	Flour Bag Stack	False	0	1	5
+1305	Sugar Bag Stack	False	0	1	5
+1306	Coffee Bag Stack	False	0	1	5
+1307	Coffee Cup Set	False	0	1	5
+1308	Wattle Tea Set	False	0	1	5
+1309	Bottle Tea Set	False	0	1	5
+1310	Mighty Spread Set	False	0	1	5
+1311	Honey Set	False	0	1	5
+1312	Apple Jam Set	False	0	1	5
+1313	Lime Jam Set	False	0	1	5
+1314	Banana Jam Set	False	0	1	5
+1315	Quandong Jam Set	False	0	1	5
+1316	River Reed Seed	False	0	1	5
+1317	Register	False	0	1	5
+1318	Green Bean Box	False	0	1	5
+1319	Meat on a Stick Set	False	0	1	5
+1320	Dagwood Dog Set	False	0	1	5
+1321	Cherry Box	False	0	1	5
+1322	Seaweed Soup Plate	False	0	1	5
+1323	Paper Bag Hat	False	0	1	5
+1324	Airport Deed	False	0	1	0
+1325	Gum Wood Entrance Sign	False	0	1	5
+1326	Palm Wood Entrance Sign	False	0	1	5
+1327	Hard Wood Entrance Sign	False	0	1	5
+1328	Rotary Clothesline	False	0	1	0
+1329	Red Beach Chair	False	0	1	5
+1330	Gum Log Stool	False	0	1	5
+1331	Hard Wood Log Stool	False	0	1	5
+1332	Palm Wood Log Stool	False	0	1	5
+1333	Summer Lily Seed	False	0	1	0
+1334	Indoor Summer Lily	False	0	1	5
+1335	Jackaroo Wand	True	250	0	0
+1336	Aquamarine Shard	False	0	1	5
+1337	Floor Light	False	0	1	0
+1338	Red Floor Light	False	0	1	0
+1339	Green Floor Light	False	0	1	0
+1340	Blue Floor Light	False	0	1	0
+1341	White Throwing Disc	False	1	4	15
+1342	Comp Fishing Rod	False	400	1	25
+1343	Pirate Glider	False	0	3	10
+1344	Pineapple	False	0	1	5
+1345	Treasure Map	False	0	1	5
+1346	Pilot Hat	False	0	1	5
+1347	Pilot Shirt	False	0	1	5
+1348	Pilot Pants	False	0	1	5
+1349	Pilot Boots	False	0	1	5
+1350	Red Spotty Dress	False	0	1	5
+1351	Beach Straw Hat	False	0	1	5
+1352	Ice Cream Maker	False	0	1	5
+1353	Ice Cream	False	0	1	5
+1354	Ice Cream Set	False	0	1	5
+1355	Gum Wood Kitchen Cabinet	False	0	1	5
+1356	Gum Wood Kitchen Sink	False	0	1	5
+1357	Palm Wood Kitchen Cabinet	False	0	1	5
+1358	Palm Wood Kitchen Sink	False	0	1	5
+1359	White Strap Shoes	False	0	1	5
+1360	Sand Castle	False	0	1	5
+1361	Sand Bucket	False	0	1	5
+1362	Interior Wall	False	0	1	5
+1363	Sand Fence	False	0	1	0
+1364	Player House 2	False	0	1	0
+1365	Your House Deed 3	False	0	1	0
+1366	Iron Wood Table	False	0	1	5
+1367	Season-All	False	0	1	0
+1368	Solar Panel	False	0	1	0
+1369	Palm Wood Table	False	0	1	5
+1370	Gum Wood Table	False	0	1	5
+1371	Hard Wood Table	False	0	1	5
+1372	Curtain Festoon	False	0	1	5
+1373	Octagon Sign	False	0	1	0
+1374	Garden Tap	False	0	1	5
+1375	Floor Drain	False	0	1	5
+1376	Picnic Basket	False	0	1	5
+1377	Pink Holiday Shirt	False	0	1	5
+1378	Purple Holiday Shirt	False	0	1	5
+1379	Orange Holiday Shirt	False	0	1	5
+1380	Green Holiday Shirt	False	0	1	5
+1381	Green Holiday Shorts	False	0	1	5
+1382	Orange Holiday Shorts	False	0	1	5
+1383	Pink Holiday Shorts	False	0	1	5
+1384	Purple Holiday Shorts	False	0	1	5
+1385	Life Guard Hat	False	0	1	5
+1386	Life Guard Shirt	False	0	1	5
+1387	Life Guard Shorts	False	0	1	5
+1388	Red Tile Path	False	0	1	0
+1389	Purple Tile Path	False	0	1	0
+1390	Yellow Tile Path	False	0	1	0
+1391	Green Tile Path	False	0	1	0
+1392	Orange Tile Path	False	0	1	0
+1393	Pink Tile Path	False	0	1	0
+1394	Blue Tile Path	False	0	1	0
+1395	Black Tile Path	False	0	1	0
+1396	White Tile Path	False	0	1	0
+1397	Beach Bar	False	0	1	5
+1398	Hay Bale	False	0	1	5
+1399	Cooler	False	0	1	5
+1400	Pineapple Box	False	0	1	5
+1401	Big Fan Hand	True	150	13	15
+1402	Gum Wood Pergola	False	0	1	5
+1403	Palm Wood Pergola	False	0	1	5
+1404	Hard Wood Pergola	False	0	1	5
+1405	Bus Stop	False	0	1	5
+1406	Red Beach Hammock	False	0	1	5
+1407	Red Beach Umbrella	False	0	1	0
+1408	Beetroot	False	0	1	5
+1409	Flat Top Fence	False	0	1	0
+1410	Beetroot Seeds	False	0	1	5
+1411	Blue Beach Towel	False	0	1	5
+1412	Green Beach Towel	False	0	1	5
+1413	Red Beach Towel	False	0	1	5
+1414	Green Beach Umbrella	False	0	1	0
+1415	Blue Beach Umbrella	False	0	1	0
+1416	White Hibiscus	False	0	1	5
+1417	Purple Hibiscus	False	0	1	5
+1418	Red Seaweed	False	0	0	0
+1419	Dark Wood Kitchen Cabinet	False	0	1	5
+1420	Dark Wood Kitchen Sink	False	0	1	5
+1421	Green Beach Hammock	False	0	1	5
+1422	Blue Beach Hammock	False	0	1	5
+1423	Blue Beach Chair	False	0	1	5
+1424	Green Beach Chair	False	0	1	5
+1425	Arrow Light	False	0	1	5
+1426	Clown Fish	False	0	1	0
+1427	Gold Fish Trophy	False	0	1	5
+1428	Silver Fish Trophy	False	0	1	5
+1429	Bronze Fish Trophy	False	0	1	5
+1430	Shark Egg	False	0	1	5
+1431	Maggie Egg	False	0	1	5
+1432	Waiting Chair	False	0	1	5
+1433	Boarding Pass	False	0	0	5
+1434	Alpha Trident	True	250	15	30
+1435	Alpha Shark Tooth	False	0	1	5
+1436	Coral Acacia Seed	False	0	1	5
+1437	Fridge	False	0	1	5
+1438	Blue Sun Glasses	False	0	1	5
+1439	Green Sun Glasses	False	0	1	5
+1440	Orange Sun Glasses	False	0	1	5
+1441	Pink Sun Glasses	False	0	1	5
+1442	Purple Sun Glasses	False	0	1	5
+1443	Beach Ball	False	0	1	5
+1444	Cup of Sunshine	False	25	1	0
+1445	Tropical Grass Turf Roll	False	0	0	0
+1446	Butterfly Perfume	False	0	1	5
+1447	Beetroot Box	False	0	1	5
+1448	Milk Set	False	0	1	5
+1449	High Quality Milk Set	False	0	1	5
+1450	Silver Pocket Watch	False	0	1	5
+1451	Brain Coral	False	0	1	5
+1452	Bird Nest Coral	False	0	1	5
+1453	Blue Staghorn Coral	False	0	1	5
+1454	Blue Table Coral Fragment	False	0	1	5
+1455	Green Staghorn Coral	False	0	1	5
+1456	Pink Coral	False	0	1	5
+1457	Pink Table Coral Fragment	False	0	1	5
+1458	Green Tube Coral	False	0	1	5
+1459	Purple Spotty Dress	False	0	1	5
+1460	Purple Strap Shoes	False	0	1	5
+1461	Halo	False	0	1	5
+1462	Humphead Wrasse	False	0	1	0
+1463	Purple-Winged Mantis	False	0	1	5
+1464	Blue Tiger Butterfly	False	0	1	5
+1465	Common Crow Butterfly	False	0	1	5
+1466	Shark Statue	False	0	1	0
+1467	Seahorse	False	0	1	5
+1468	Triton's Trumpet	False	0	1	5
+1469	Sea Sponge	False	0	1	5
+1470	Police Hat	False	0	1	5
+1471	Police Pants	False	0	1	5
+1472	Police Shirt	False	0	1	5
+1473	Police Boots	False	0	1	5
+1474	White Panel Wall	False	0	1	0
+1475	Black Throwing Disc	False	1	4	15
+1476	Blue Throwing Disc	False	1	4	15
+1477	Green Throwing Disc	False	1	4	15
+1478	Orange Throwing Disc	False	1	4	15
+1479	Pink Throwing Disc	False	1	4	15
+1480	Purple Throwing Disc	False	1	4	15
+1481	Red Throwing Disc	False	1	4	15
+1482	Blue Tang	False	0	1	0
+1483	Yellow Tang	False	0	1	0
+1484	Festive Roo Plush	False	0	1	5
+1485	Wheezing Shirt	False	0	1	5
+1486	Festive Table	False	0	1	5
+1487	Festive Festoon	False	0	1	5
+1488	Cardboard Box	False	0	1	5
+1489	Coconut Drink Set	False	0	1	5
+1490	Festive Lamp	False	0	1	0
+1491	Coconut Drink	False	0	1	5
+1492	Plastic Chair	False	0	1	5
+1493	Festive Pole	False	0	1	5
+1494	Cooked Prawn	False	0	1	0
+1495	Cooked Prawn Plate	False	0	1	5
+1496	Red Festive Sweater	False	0	1	5
+1497	Festive Chair	False	0	1	5
+1498	Light Arch	False	0	1	0
+1499	Festive Gifts	False	0	1	5
+1500	Green Festive Sweater	False	0	1	5
+1501	Spag Bol	False	0	1	5
+1502	Cheesy Spag	False	0	1	5
+1503	Spag Bol Plate	False	0	1	5
+1504	Cheese Spag Plate	False	0	1	5
+1505	Jam Toast	False	0	1	5
+1506	Croco Skewer	False	0	1	5
+1507	Scones	False	0	1	5
+1508	Burger	False	0	1	5
+1509	Lot Burger	False	0	1	5
+1510	Dunny	False	0	1	0
+1511	Jam Toast Plate	False	0	1	5
+1512	Scones Plate	False	0	1	5
+1513	Croco Skewer Set	False	0	1	5
+1514	Burger Plate	False	0	1	5
+1515	Lot Burger Plate	False	0	1	5
+1516	Watermelon Popsicle	False	0	1	5
+1517	Advanced Crafting Table	False	250	0	0
+1518	Advanced Cooking Table	False	0	1	0
+1519	Sparkin' Soup	False	0	1	5
+1520	Water Melon Popsicle Set	False	0	1	5
+1521	Sparkin' Soup Plate	False	0	1	5
+1522	Crab Soup	False	0	1	5
+1523	Parmy and Chips	False	0	1	5
+1524	Parmi and Chips Plate	False	0	1	5
+1525	Crab Soup Plate	False	0	1	5
+1526	Yellow Morel	False	0	1	5
+1527	Slippery Jack	False	0	1	5
+1528	Field Mushroom	False	0	1	5
+1529	Milk Cap	False	0	1	5
+1530	Hand Trolley	False	1	1	5
+1531	Cooked Yabbie Plate	False	0	1	5
+1532	Cooked Yabbie	False	0	1	0
+1533	Red Roundhead	False	0	1	5
+1534	Slippery Jack Stool	False	0	1	5
+1535	Field Mushroom Lamp	False	0	1	0
+1536	Slippery Jack Lamp	False	0	1	0
+1537	Red Roundhead Lamp	False	0	1	0
+1538	Yellow Morel Lamp	False	0	1	0
+1539	Milk Cap Lamp	False	0	1	0
+1540	Mushroom Soup	False	0	1	5
+1541	Cooked Mushroom	False	0	1	5
+1542	Field Mushroom Basket	False	0	1	5
+1543	Milk Cap Basket	False	0	1	5
+1544	Slippery Jack Basket	False	0	1	5
+1545	Yellow Morel Basket	False	0	1	5
+1546	Roundhead Basket	False	0	1	5
+1547	Field Mushroom Stool	False	0	1	5
+1548	Milk Cap Stool	False	0	1	5
+1549	Roundhead Stool	False	0	1	5
+1550	Yellow Morel Stool	False	0	1	5
+1551	Mushroom Soup Plate	False	0	1	5
+1552	Toffee	False	0	1	5
+1553	Toffee Plate	False	0	1	5
+1554	Pumpkin Soup	False	0	1	5
+1555	Pumpkin Soup Plate	False	0	1	5
+1556	Balloon Sword	True	150	15	15
+1557	Battle Broom	True	180	14	30
+1558	Blastoad	False	0	1	5
+1559	Plat Pie	False	0	1	5
+1560	Toilet	False	0	1	5
+1561	Bath Tub	False	0	1	5
+1562	Charcoal Wall	False	0	1	0
+1563	Pastel Blue Wall	False	0	1	0
+1564	Pastel Green Wall	False	0	1	0
+1565	Pastel Grey Wall	False	0	1	0
+1566	Pastel Orange Wall	False	0	1	0
+1567	Pastel Pink Wall	False	0	1	0
+1568	Pastel Purple Wall	False	0	1	0
+1569	Pastel Red Wall	False	0	1	0
+1570	Light Room Divider	False	0	1	5
+1571	Eastern Room Divider	False	0	1	5
+1572	Rattan Room Divider	False	0	1	5
+1573	Mummy Boots	False	0	1	5
+1574	Mummy Hood	False	0	1	5
+1575	Mummy Pants	False	0	1	5
+1576	Mummy Shirt	False	0	1	5
+1577	Orange And Grey Jumper	False	0	1	5
+1578	White Hoodie	False	0	1	5
+1579	White Comfy Shoes	False	0	1	5
+1580	Black Hoodie	False	0	1	5
+1581	Black Comfy Shoes	False	0	1	5
+1582	Black Sweat Pants	False	0	1	5
+1583	Orange Hoodie	False	0	1	5
+1584	Orange Comfy Shoes	False	0	1	5
+1585	Orange Sweat Pants	False	0	1	5
+1586	Black And White Scarf	False	0	1	5
+1587	Pink Hoodie	False	0	1	5
+1588	Pink Comfy Shoes	False	0	1	5
+1589	Pink Sweat Pants	False	0	1	5
+1590	Green Hoodie	False	0	1	5
+1591	Green Comfy Shoes	False	0	1	5
+1592	Green Sweat Pants	False	0	1	5
+1593	Blue Hoodie	False	0	1	5
+1594	Blue Comfy Shoes	False	0	1	5
+1595	Blue Sweat Pants	False	0	1	5
+1596	Purple Hoodie	False	0	1	5
+1597	Purple Comfy Shoes	False	0	1	5
+1598	Purple Sweat Pants	False	0	1	5
+1599	Red Hoodie	False	0	1	5
+1600	Red Comfy Shoes	False	0	1	5
+1601	Red Sweat Pants	False	0	1	5
+1602	Yellow Hoodie	False	0	1	5
+1603	Yellow Comfy Shoes	False	0	1	5
+1604	Yellow Sweat Pants	False	0	1	5
+1605	Black Scarf	False	0	1	5
+1606	Grey Scarf	False	0	1	5
+1607	Patterned Scarf	False	0	1	5
+1608	Red and Black Scarf	False	0	1	5
+1609	Gum Log Seat	False	0	1	5
+1610	Dark Room Divider	False	0	1	5
+1611	Office Divider	False	0	1	5
+1612	Galaxy Glider	False	0	3	10
+1613	Galaxy Hood	False	0	1	5
+1614	Meteorite Chunk	False	0	1	5
+1615	Star Sabre	True	1000	20	20
+1616	Yellow Stripe Jumper	False	0	1	5
+1617	Charcoal Tights	False	0	1	5
+1618	Green Stripe Jumper	False	0	1	5
+1619	Grey Tights	False	0	1	5
+1620	Blue Stripe Jumper	False	0	1	5
+1621	White Tights	False	0	1	5
+1622	Guest House Level 2	False	0	1	0
+1623	Guest House Deed	False	0	1	0
+1624	Guest House 2 Level 2	False	0	1	0
+1625	Guest House Deed	False	0	1	0
+1626	Guest House 2 Level 2	False	0	1	0
+1627	Guest House Deed	False	0	1	0
+1628	Ride On Lawn Mower	False	0	1	5
+1629	Interior Doorway	False	0	1	5
+1630	Interior Half Wall	False	0	1	0
+1631	Fish Pond	False	0	1	0
+1632	Fish Roe	False	0	1	5
+1633	Rice Seed	False	0	1	5
+1634	Rice	False	0	1	5
+1635	Caviar	False	0	1	5
+1636	Cooked Rice	False	0	1	5
+1637	Egg Fried Rice	False	0	1	5
+1638	Rice Bag Stack	False	0	1	5
+1639	Egg Fried Rice Plate	False	0	1	5
+1640	Caviar Set	False	0	1	5
+1641	Cooked Rice Set	False	0	1	5
+1642	Roe Nigiri	False	0	1	5
+1643	Roe Nigiri Plate	False	0	1	5
+1644	Crude Ladder	False	0	1	0
+1645	Vine Lattice Ladder	False	0	1	0
+1646	Creeping Vine	False	0	1	0
+1647	Gum Wood Ladder	False	0	1	0
+1648	Hard Wood Ladder	False	0	1	0
+1649	Palm Wood Ladder	False	0	1	0
+1650	Iron Ladder	False	0	1	0
+1651	Rope Ladder	False	0	1	0
+1652	Green Wood Floor	False	0	1	0
+1653	Cabin Wall	False	0	1	0
+1654	Rainbow Fish	False	0	1	0
+1655	Lionfish	False	0	1	0
+1656	Tiger Beetle	False	0	1	5
+1657	Grass Tree Seed Pod	False	0	1	5
+1658	Grass Tree Seed	False	0	1	5
+1659	Cabin Stool	False	0	1	5
+1660	Cabin Chair	False	0	1	5
+1661	Cabin Seat	False	0	1	5
+1662	Cabin Couch	False	0	1	5
+1663	Cabin Bed	False	0	1	5
+1664	Old Table	False	0	1	5
+1665	Cabin Coffee Table	False	0	1	5
+1666	Cabin Drawers	False	0	1	5
+1667	Cabin Kitchen Table	False	0	1	5
+1668	Cabin Cabinet	False	0	1	5
+1669	Mushroom Risotto	False	0	1	5
+1670	Mushroom Risotto Plate	False	0	1	5
+1671	Insta-Grow	False	0	1	0
+1672	Old Wood Fence	False	0	1	0
+1673	Old Wood Lamp Post	False	0	1	0
+1674	Natural Path	False	0	1	0
+1675	Gravel Pathway	False	0	1	0
+1676	Auto Sorter	False	0	1	0
+1677	Wrought Iron Fence	False	0	1	0
+1678	Wrought Iron Lamp	False	0	1	0
+1679	Wrought Iron Bench	False	0	1	5
+1680	Wrought Iron Gate	False	0	1	0
+1681	Cabin Bedside Table	False	0	1	5
+1682	Cabin Bunk Bed	False	0	1	5
+1683	Old Gizmo	False	0	1	5
+1684	Smooth Cement Path	False	0	1	0
+1685	Honeycomb	False	0	1	5
+1686	Wish Fountain Deed	False	0	1	0
+1687	Tin Flower Bed	False	0	1	0
+1688	Pin Wheel	False	0	0	0
+1689	White Diamond Kite	False	250	0	0
+1690	Black Diamond Kite	False	250	0	0
+1691	Blue Diamond Kite	False	250	0	0
+1692	Green Diamond Kite	False	250	0	0
+1693	Orange Diamond Kite	False	250	0	0
+1694	Pink Diamond Kite	False	250	0	0
+1695	Purple Diamond Kite	False	250	0	0
+1696	Red Diamond Kite	False	250	0	0
+1697	Yellow Diamond Kite	False	250	0	0
+1698	White Box Kite	False	250	0	0
+1699	Black Box Kite	False	250	0	0
+1700	Blue Box Kite	False	250	0	0
+1701	Green Box Kite	False	250	0	0
+1702	Orange Box Kite	False	250	0	0
+1703	Pink Box Kite	False	250	0	0
+1704	Purple Box Kite	False	250	0	0
+1705	Red Box Kite	False	250	0	0
+1706	Yellow Box Kite	False	250	0	0
+1707	White Sled Kite	False	250	0	0
+1708	Black Sled Kite	False	250	0	0
+1709	Blue Sled Kite	False	250	0	0
+1710	Green Sled Kite	False	250	0	0
+1711	Orange Sled Kite	False	250	0	0
+1712	Pink Sled Kite	False	250	0	0
+1713	Purple Sled Kite	False	250	0	0
+1714	Red Sled Kite	False	250	0	0
+1715	Yellow Sled Kite	False	250	0	0
+1716	Kite Kit	False	0	1	5
+1717	Glitter Ball	False	0	1	0
+1718	Search Light	False	0	1	0
+1719	Aurora Shirt	False	0	1	5
+1720	Aurora Baseball Cap	False	0	1	5
+1721	Moon Lamp	False	0	1	0
+1722	Star Wall	False	0	1	0
+1723	Sky Fest Prize Ticket	False	0	0	5
+1724	Foil Hat	False	0	1	5
+1725	Star Carpet Path	False	0	1	0
+1726	Star Fence	False	0	1	0
+1727	Star Balloon	False	250	0	0
+1728	Har-Vac	False	3500	0	0
+1729	Empty Har-Vac	False	10000	0	0
+1730	Cockatoo Plush	False	0	1	5
+1731	Vombat Plush	False	0	1	5
+1732	Wary Mu Plush	False	0	1	5
+1733	Shark Plush	False	0	1	5
+1734	Party Hat	False	0	1	5
+1735	Flower Crown	False	0	1	5
+1736	Snow Ball	False	0	1	5
+1737	Ice Seat	False	0	1	5
+1738	Ice Sculpture	False	0	1	0
+1739	Ice Path	False	0	1	0
+1740	Ice Lamp	False	0	1	0
+1741	Snow Hood	False	0	1	5
+1742	Ice Table	False	0	1	5
+1743	Ice Ottoman	False	0	1	5
+1744	Ice Chest	False	0	1	5
+1745	Flame Jelly Bed	False	0	1	0
+1746	Iron Lantern	False	0	1	0
+1747	Black Marble Path	False	0	1	0
+1748	Flame Glider	False	0	3	10
+1749	Flame Jelly	False	0	1	5
+1750	Berkonium Wand	True	300	11	15
+1751	Bush Devil Hood	False	0	1	5
+1752	Pickaxe Axe	True	400	10	45
+1753	Ice Sculpting Table	False	0	1	0
+1754	Perfect Ruby	False	0	1	5
+1755	Perfect Emerald	False	0	1	5
+1756	Perfect Aquamarine	False	0	1	5
+1757	Ice Hammer	True	250	20	55
+1758	Flame Jelly Hood	False	0	1	5
+1759	Ice Fence	False	0	1	0
+1760	Tree Pinchers	False	1	1	5
+1761	Tele-Jumper	False	30	1	0
+1762	Key Cutter	False	0	1	0
+1763	Swag Pack	False	0	0	5
+1764	Flame Spear	True	250	10	30
+1765	Hard Wood Tool Rack	False	0	1	5
+1766	Gum Wood Tool Rack	False	0	1	5
+1767	Palm Wood Tool Rack	False	0	1	5
+1768	Mannequin	False	0	1	0
+1769	Fake Goatee	False	0	1	5
+1770	Floor Plaque	False	0	1	0
+1771	Director Chair	False	0	1	5
+1772	Lil' Top Hat	False	0	1	5
+1773	Red Hair Bow	False	0	1	5
+1774	Slippers	False	0	1	5
+1775	Pajama Pants	False	0	1	5
+1776	Pajama Shirt	False	0	1	5
+1777	Sleeping Cap	False	0	1	5
+1778	Sleeping Mask	False	0	1	5
+1779	Villain Mustache	False	0	1	5
+1780	Heart  Sun Glasses	False	0	1	5
+1781	Raggy Shirt	False	0	1	5
+1782	Raggy Pants	False	0	1	5
+1783	Raggy Sneakers	False	0	1	5
+1784	Green Renaissance Dress	False	0	1	5
+1785	Red Renaissance Dress	False	0	1	5
+1786	Black Renaissance Dress	False	0	1	5
+1787	Brown Apron Dress	False	0	1	5
+1788	Horn Helmet	False	0	1	5
+1789	Blue Hair Bow	False	0	1	5
+1790	Purple Hair Bow	False	0	1	5
+1791	Yellow Hair Bow	False	0	1	5
+1792	Concierge Jacket	False	0	1	5
+1793	Concierge Hat	False	0	1	5
+1794	Purple Cap	False	0	1	5
+1795	Black Flats	False	0	1	5
+1796	Yellow Flats	False	0	1	5
+1797	Cool Cap	False	0	1	5
+1798	Hazmat Shirt	False	0	1	5
+1799	Hazmat Pants	False	0	1	5
+1800	Hazmat Hood	False	0	1	5
+1801	Hazmat Shoes	False	0	1	5
+1802	Blue Vintage Dress	False	0	1	5
+1803	Green Vintage Dress	False	0	1	5
+1804	Black Victorian Dress	False	0	1	5
+1805	Green Victorian Dress	False	0	1	5
+1806	Red Victorian Dress	False	0	1	5
+1807	Black Victorian Bonnet	False	0	1	5
+1808	Green Victorian Bonnet	False	0	1	5
+1809	Red Victorian Bonnet	False	0	1	5
+1810	Green Victorian Jacket	False	0	1	5
+1811	Cream Victorian Pants	False	0	1	5
+1812	Brown Victorian Boots	False	0	1	5
+1813	Purple Bucket Hat	False	0	1	5
+1814	Black Bucket Hat	False	0	1	5
+1815	Black Victorian Pants	False	0	1	5
+1816	Black Victorian Jacket	False	0	1	5
+1817	Black Victorian Boots	False	0	1	5
+1818	Red Victorian Jacket	False	0	1	5
+1819	White Victorian Boots	False	0	1	5
+1820	White Victorian Pants	False	0	1	5
+1821	Raggy Dress	False	0	1	5
+1822	Brown Tights	False	0	1	5
+1823	Antique Desk	False	0	1	5
+1824	Cactus Pot	False	0	1	5
+1825	Display Case	False	0	1	0
+1826	Kitchen Island	False	0	1	5
+1827	Dark Wood Kitchen Island	False	0	1	5
+1828	Gum Kitchen Island	False	0	1	5
+1829	Palm Kitchen Island	False	0	1	5
+1830	Palm Wood Double Gate	False	0	1	0
+1831	Gum Wood Double Gate	False	0	1	0
+1832	Hard Wood Double Gate	False	0	1	0
+1833	Tin Double Gate	False	0	1	0
+1834	Milk Crate Chair	False	0	1	5
+1835	Milk Crate Coffee Table	False	0	1	5
+1836	Milk Crate Bookshelf	False	0	1	5
+1837	Milk Crate Bed	False	0	1	5
+1838	Cement Bridge	False	0	1	0
+1839	Wide Cement Bridge	False	0	1	0
+1840	Blue Bandana	False	0	1	5
+1841	Black Bandana	False	0	1	5
+1842	Green Bandana	False	0	1	5
+1843	Orange Bandana	False	0	1	5
+1844	Red Bandana	False	0	1	5
+1845	Glass Fence	False	0	1	0
+1846	Black Hair Bow	False	0	1	5
+1847	White Hair Bow	False	0	1	5
+1848	Pink Hair Bow	False	0	1	5
+1849	Green Hair Bow	False	0	1	5
+1850	Pincher Hood	False	0	1	5
+1851	Pincher Plant Statue	False	0	1	0
+1852	Iron Bridge	False	0	1	0
+1853	Wide Iron Bridge	False	0	1	0
+1854	Gumleaf Grasshopper	False	0	1	5
+1855	Cicada	False	0	1	5
+1856	Empire Gudgeon	False	0	1	0
+1857	Rock Oyster	False	0	1	5
+1858	Nudibranch	False	0	1	5
+1859	Display Pedestal	False	0	1	0
+1860	Impostor Ball	False	250	0	0
+1861	Stack of Papers	False	0	1	5
+1862	Blue-ringed Octopus	False	0	1	5
+1863	Inverse Corner Ramp	False	0	1	5
+1864	Go-Go Clock	False	0	1	5
+1865	Go-Go Statue	False	0	1	5
+1866	Go-Go Lantern	False	0	1	5
+1867	Go-Go Phone Booth	False	0	1	5
+1868	Go-Go Wiggly Friend	False	0	1	5
+1869	Gonut	False	0	1	5
+1870	Fried Gonut	False	0	1	5
+1871	Go-Go Trike	False	0	1	5
+1872	Gonut Box	False	0	1	5
+1873	Go-Go Pet Rock	False	0	1	5
+1874	Go-Go Trinket	False	0	1	5
+1875	Bird Bill	False	0	1	5
+1876	Camping Chair	False	0	1	5
+1877	Hip-Hop Cassette	False	0	1	0
+1878	Bug Terrarium	False	0	1	0
+1879	Pop Cassette	False	0	1	0
+1880	Rock Cassette	False	0	1	0
+1881	Blues Cassette	False	0	1	0
+1882	Town Bell	False	0	1	5
+1883	Animal Brush	False	0	1	5
+1884	Plane	False	0	1	5
+1885	Cocoon	False	0	1	5
+1886	Silk	False	0	1	5
+1887	Rental Sign	False	0	1	5
+1888	Tin Pergola	False	0	1	5
+1889	Cloth Pergola	False	0	1	5
+1890	Brick Pergola	False	0	1	5
+1891	Gold Nugget	False	0	1	5
+1892	Gold Ore	False	0	1	5
+1893	Leather Seat	False	0	1	5
+1894	Leather Couch	False	0	1	5
+1895	Guest House Deed	False	0	1	0
+1896	Guest House 4 Level 2	False	0	1	0
+1897	Guest House Deed	False	0	1	0
+1898	Gum Mirror Stand	False	0	1	5
+1899	Mirror Stand	False	0	1	5
+1900	Palm Mirror Stand	False	0	1	5
+1901	Basin	False	0	1	5
+1902	Wrought Iron Table	False	0	1	5
+1903	Wrought Iron Chair	False	0	1	5
+1904	Creepy Cassette	False	0	1	0
+1905	Dreary Cassette	False	0	1	0
+1906	Experimental Cassette	False	0	1	0
+1907	Country Cassette	False	0	1	0
+1908	Shopping Cassette	False	0	1	0
+1909	Old Cassette	False	0	1	0
+1910	Golden Cassette	False	0	1	0
+1911	Chill Cassette	False	0	1	0
+1912	Smooth Cassette	False	0	1	0
+1913	Dinner Cassette	False	0	1	0
+1914	Ambient Cassette	False	0	1	0
+1915	Map Table	False	0	1	5
+1916	Wide Bookshelf	False	0	1	5
+1917	Dark Wooden Chest Of Drawers	False	0	1	5
+1918	Barbed Wire Fence	False	0	1	0
+1919	Board Fence	False	0	1	0
+1920	Road Lamp	False	0	1	0
+1921	Rope Bridge	False	0	1	0
+1922	Inflatable Pool	False	0	1	5
+1923	Bin Chook Statue	False	0	1	0
+1924	Gold Crown	False	0	1	5
+1925	Royal Crown	False	0	1	5
+1926	Mighty Sandwich	False	0	1	5
+1927	Mighty Sandwich Plate	False	0	1	5
+1928	Wide Rope Bridge	False	0	1	0
+1929	Doggo Bowl	False	0	1	0
+1930	Basalt	False	0	1	0
+1931	Animal Shower	False	0	1	0
+1932	Black Raglan Sleeve	False	0	1	5
+1933	Blue Raglan Sleeve	False	0	1	5
+1934	Green Raglan Sleeve	False	0	1	5
+1935	Orange Raglan Sleeve	False	0	1	5
+1936	Pink Raglan Sleeve	False	0	1	5
+1937	Purple Raglan Sleeve	False	0	1	5
+1938	Red Raglan Sleeve	False	0	1	5
+1939	Yellow Raglan Sleeve	False	0	1	5
+1940	Black Capri Pants	False	0	1	5
+1941	Blue Capri Pants	False	0	1	5
+1942	Green Capri Pants	False	0	1	5
+1943	Orange Capri Pants	False	0	1	5
+1944	Pink Capri Pants	False	0	1	5
+1945	Purple Capri Pants	False	0	1	5
+1946	Red Capri Pants	False	0	1	5
+1947	Yellow Capri Pants	False	0	1	5
+1948	Medieval Helmet	False	0	1	5
+1949	Medieval Breastplate	False	0	1	5
+1950	Medieval Leggings	False	0	1	5
+1951	Medieval Boots	False	0	1	5
+1952	Gold Bar	False	0	1	5
+1953	Battle Fish	True	180	14	30
+1954	Battlegrounds Hat	False	0	1	5
+1955	Battlegrounds Shirt	False	0	1	5
+1956	Battlegrounds Pants	False	0	1	5
+1957	Battlegrounds Shoes	False	0	1	5
+1958	Macquarie Perch	False	0	1	0
+1959	Spotted Handfish	False	0	1	0
+1960	Lungfish	False	0	1	0
+1961	Bone Shirt	False	0	1	5
+1962	Bone Pants	False	0	1	5
+1963	Bone Shoes	False	0	1	5
+1964	Hoop Earrings	False	0	1	5
+1965	Nose Ring	False	0	1	5
+1966	Nose Bandage	False	0	1	5
+1967	Ruby Earrings	False	0	1	5
+1968	Emerald Earrings	False	0	1	5
+1969	Aquamarine Earrings	False	0	1	5
+1970	Mystery Bag	False	0	1	0
+1971	Paper Hat	False	0	1	5
+1972	Blistering Bottlew	False	4	1	0
+1973	Opal Earrings	False	0	1	5
+1974	Leather Bench	False	0	1	5
+1975	Pearl Earrings	False	0	1	5
+1976	Glowing Mushroom Pot	False	0	1	5
+1977	Giant Bat Wings	False	0	1	5
+1978	Glowing Hang Glider	False	0	3	10
+1979	Giant Feather Wings	False	0	1	5
+1980	Bone Mask	False	0	1	5
+1981	Floor Candelabra	False	0	1	5
+1982	Fiery Halo	False	0	1	5
+1983	Die	False	0	1	5
+1984	Glowing Slab	False	0	1	5
+1985	Face Bandage	False	0	1	5
+1986	Glowing Box	False	0	1	5
+1987	Glowing Path	False	0	1	0
+1988	Glowing Pickaxe	True	400	8	35
+1989	Glowing Axe	True	400	8	25
+1990	Wind Chime	False	0	1	0
+1991	Glowing Dress	False	0	1	5
+1992	Blue Coat	False	0	1	5
+1993	Orange Coat	False	0	1	5
+1994	Orange Ripped Jeans	False	0	1	5
+1995	Green Holiday Hat	False	0	1	5
+1996	Orange Holiday Hat	False	0	1	5
+1997	Pink Holiday Hat	False	0	1	5
+1998	Purple Holiday Hat	False	0	1	5
+1999	Glowing Coat	False	0	1	5
+2000	Red Slip Dress	False	0	1	5
+2001	Retro Sweater	False	0	1	5
+2002	Glowing Glasses	False	0	1	5
+2003	Wooden Swing Set	False	0	1	5
+2004	Green Slip Dress	False	0	1	5
+2005	Yellow Slip Dress	False	0	1	5
+2006	Hanging Planter	False	0	1	0
+2007	Native Bread	False	0	1	5
+2008	Earth Worms	False	0	1	5
+2009	Railway Track	False	0	1	0
+2010	Curved Railway Track	False	0	1	0
+2011	Train	False	0	1	5
+2012	Railway Bridge	False	0	1	0
+2013	Train Car	False	0	1	5
+2014	Domesti-Crate	False	0	1	0
+2015	Auto Placer	False	0	1	0
+2016	Pretty Pebble	False	0	1	5
+2017	Egg Incubator	False	0	1	0
+2018	Duff Dust	False	0	1	5
+2019	Fertilised Chicken Egg	False	0	1	5
+2020	Conductor Shirt	False	0	1	5
+2021	Conductor Pants	False	0	1	5
+2022	Conductor Cap	False	0	1	5
+2023	Pineapple Jam	False	0	1	5
+2024	Pineapple Jam Set	False	0	1	5
+2025	Critter Book	False	0	1	0
+2026	Matching Steps	False	0	1	5
+2027	Servo	False	0	1	5
+2028	Penguin Plush	False	0	1	5
+2029	Smooth Black Path	False	0	1	0
+2030	Smooth Blue Path	False	0	1	0
+2031	Smooth Green Path	False	0	1	0
+2032	Smooth Orange Path	False	0	1	0
+2033	Smooth Pink Path	False	0	1	0
+2034	Smooth Purple Path	False	0	1	0
+2035	Smooth Red Path	False	0	1	0
+2036	Smooth White Path	False	0	1	0
+2037	Smooth Yellow Path	False	0	1	0
+2038	Cork Hat	False	0	1	5
+2039	Loop Fence	False	0	1	0
+2040	Bright Gravel Pathway	False	0	1	0
+2041	Pleep Plush	False	0	1	5
+2042	Disguise Glasses	False	0	1	5
+2043	Oval Sunnies	False	0	1	5
+2044	Cat Ears	False	0	1	5
+2045	Vine Pergola	False	0	1	5
+2046	Marble Pergola	False	0	1	5
+2047	Bin Chook Plush	False	0	1	5
+2048	Pencil Cup	False	0	1	5
+2049	Chopping Board	False	0	1	5
+2050	Toy Ute	False	0	1	5
+2051	Votive Candle	False	0	1	5
+2052	White Cushion Stack	False	0	1	5
+2053	Blue Cushion Stack	False	0	1	5
+2054	Red Cushion Stack	False	0	1	5
+2055	Switch Railway Track	False	0	1	0
+2056	Old Bowser	False	0	1	0
+2057	Green Sleeveless Dress	False	0	1	5
+2058	Dark Cottage Shoes	False	0	1	5
+2059	White Sleeveless Dress	False	0	1	5
+2060	Brown Cottage Shoes	False	0	1	5
+2061	Red Bow Dress	False	0	1	5
+2062	Yellow Item Sign	False	0	1	0
+2063	Blue Sign	False	0	1	0
+2064	White Sign	False	0	1	0
+2065	Yellow Bow Dress	False	0	1	5
+2066	Pink Petal Dress	False	0	1	5
+2067	Green Petal Dress	False	0	1	5
+2068	Purple Petal Dress	False	0	1	5
+2069	Arch Fence	False	0	1	0
+2070	Wheelie Bin	False	0	1	0
+2071	Blue Carpet Path	False	0	1	0
+2072	Blue Belt Fence	False	0	1	0
+2073	Fairy Light Pergola	False	0	1	5
+2074	Fish Berley Box	False	0	1	0
+2075	Boaricoot Whistle	False	0	1	0
+2076	Sport Helmet	False	0	1	5
+2077	Improved Stone Grinder	False	0	1	5
+2078	Yellow Single Person Tent	False	0	1	5
+2079	Blue Single Person Tent	False	0	1	5
+2080	Green Single Person Tent	False	0	1	5
+2081	Tyre Planter	False	0	1	5
+2082	Tyre Bench	False	0	1	5
+2083	White Brick Path	False	0	1	0
+2084	Black Pastel Floor	False	0	1	0
+2085	Blue Pastel Floor	False	0	1	0
+2086	Brown Pastel Floor	False	0	1	0
+2087	Green Pastel Floor	False	0	1	0
+2088	Orange Pastel Floor	False	0	1	0
+2089	Pink Pastel Floor	False	0	1	0
+2090	Purple Pastel Floor	False	0	1	0
+2091	Red Pastel Floor	False	0	1	0
+2092	White Pastel Floor	False	0	1	0
+2093	Yellow Pastel Floor	False	0	1	0
+2094	White Brick Flower Bed	False	0	1	0
+2095	Black Cattleman Hat	False	0	1	5
+2096	White Cattleman Hat	False	0	1	5
+2097	Bowler Hat	False	0	1	5
+2098	Shovel of Pebbles	False	600	1	1
+2099	Magenta Pig Face	False	0	1	5
+2100	Saltbush Seed	False	0	1	5
+2101	Lighthouse	False	0	1	5
+2102	Spear Grass Seed	False	0	0	0
+2103	Pearl Bluebush Seed	False	0	1	5
+2104	Encyclopedia	False	0	1	0
+2105	Mallee Gumnut	False	0	1	5
+2106	Burger Pack	False	0	0	5
+2107	Jackaroo Pack	False	0	0	5
+2108	Crate Pack	False	0	0	5
+2109	Flame Jelly Pack	False	0	0	5
+2110	Boombox Pack	False	0	0	5
+2111	Messenger Pack	False	0	0	5
+2112	Guitar Pack	False	0	0	5
+2113	Bum Bag Pack	False	0	0	5
+2114	Hard Pack	False	0	0	5
+2115	Handbag Pack	False	0	0	5
+2116	Tote Pack	False	0	0	5
+2117	Hunter's Stool	False	0	1	5
+2118	Scooter	False	0	3	10
+2119	Secateurs	False	0	1	5
+2120	Black Pocket Watch	False	0	1	5
+2121	Hunter's Helmet	False	0	1	5
+2122	Alpha Plant Hammer	True	1000	26	50
+2123	White Pig Face	False	0	1	5
+2124	Red Pig Face	False	0	1	5
+2125	Tome of Wounding	True	800	7	0
+2126	Airship Souvenir	False	0	1	5
+2127	Lighthouse Souvenir	False	0	1	5
+2128	Shark Statue Souvenir	False	0	1	5
+2129	Orb of Stars	False	1	1	0
+2130	Invisible Glider	False	0	3	10
+2131	Copy Pad	False	0	1	5
+2132	Auto Animal Trap	False	0	1	0
+2133	Alpha Battle Fish	True	500	18	30
+2134	Camera Pack	False	0	0	5
+2135	Medkit	False	15	0	5
+2136	Ghoul Drop{s}	False	0	1	5
+2137	Jack o'Lantern	False	0	1	5
+2138	Cauldron	False	0	1	5
+2139	Spooky Seed	False	0	1	5
+2140	Flying Broomstick	False	0	1	5
+2141	Spooky Path	False	0	1	0
+2142	Spooky Scarecrow	False	0	1	5
+2143	Pet Bat	False	0	1	5
+2144	Spooky Bed	False	0	1	5
+2145	Spooky Jackaroo	False	0	1	0
+2146	Spooky Lamp	False	0	1	0
+2147	Spooky Ghost	False	0	1	5
+2148	Jack o'lantern Stack	False	0	1	5
+2149	Spooky Cabinet	False	0	1	5
+2150	Spooky Fence	False	0	1	0
+2151	Spooky Sign	False	0	1	0
+2152	Bat Cage	False	0	1	5
+2153	Spooky Pergola	False	0	1	5
+2154	Spooky Yobbolin	False	0	1	0
+2155	Spooky Boombox	False	0	1	5
+2156	Fog Machine	False	0	1	5
+2157	Vampire Cape	False	0	1	5
+2158	Ghoul Drop Lantern	False	0	1	5
+2159	Spooky Pack	False	0	0	5
+2160	Vampire Coat	False	0	1	5
+2161	Vampire Pants	False	0	1	5
+2162	Vampire Shoes	False	0	1	5
+2163	Vampire Dress	False	0	1	5
+2164	Animal Bell	False	0	1	0
+2165	Alien Mask	False	0	1	5
+2166	Alien Pants	False	0	1	5
+2167	Alien Shirt	False	0	1	5
+2168	Alien Shoes	False	0	1	5
+2169	Alien Cape	False	0	1	5
+2170	Plague Doctor Shoes	False	0	1	5
+2171	Plague Doctor Mask	False	0	1	5
+2172	Plague Doctor Pants	False	0	1	5
+2173	Plague Doctor Robes	False	0	1	5

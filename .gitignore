@@ -10,3 +10,7 @@ BepInEx/
 game/
 *.zip
 *.exe
+build/
+src/makeshift-build/
+src/modpack-build/
+src/pack42-build/

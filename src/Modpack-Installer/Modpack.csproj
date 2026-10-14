@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework><OutputType>WinExe</OutputType><LangVersion>latest</LangVersion>
+    <AssemblyName>Dinkum-Modpack-Setup</AssemblyName><Version>4.2.0</Version><PlatformTarget>x64</PlatformTarget>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <GamePath Condition="'$(GamePath)' == ''">C:/Program Files (x86)/Steam/steamapps/common/Dinkum</GamePath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="EnhancementGuardTests.cs" />
+    <Reference Include="System.Windows.Forms" /><Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression" /><Reference Include="System.IO.Compression.FileSystem" /><Reference Include="System.Xml" />
+    <Reference Include="$(GamePath)/BepInEx/core/Mono.Cecil.dll" Private="false" />
+    <EmbeddedResource Include="$(GamePath)/BepInEx/core/Mono.Cecil.dll" LogicalName="Mono.Cecil.dll" />
+    <EmbeddedResource Include="Mono.Cecil-LICENSE.txt" LogicalName="Mono.Cecil-LICENSE.txt" />
+    <EmbeddedResource Include="NOTICE.txt" LogicalName="NOTICE.txt" />
+    <EmbeddedResource Include="../pack42-build/modern/EquipmentRecovery/LocalDinkum.EquipmentRecovery.dll" LogicalName="recovery.modern.dll" />
+    <EmbeddedResource Include="../pack42-build/legacy/EquipmentRecovery/LocalDinkum.EquipmentRecovery.dll" LogicalName="recovery.legacy.dll" />
+    <EmbeddedResource Include="../pack42-build/modern/EquipmentEnhancement/LocalDinkum.EquipmentEnhancement.dll" LogicalName="enhancement.modern.dll" />
+    <EmbeddedResource Include="../pack42-build/legacy/EquipmentEnhancement/LocalDinkum.EquipmentEnhancement.dll" LogicalName="enhancement.legacy.dll" />
+    <EmbeddedResource Include="../makeshift-build/modern/Snaitf.Dinkum.Makeshift.dll" LogicalName="makeshift.modern.dll" />
+    <EmbeddedResource Include="../makeshift-build/legacy/Snaitf.Dinkum.Makeshift.dll" LogicalName="makeshift.legacy.dll" />
+    <EmbeddedResource Include="../modpack-build/modern/FancyFeast/Snaitf.Dinkum.FancyFeast.dll" LogicalName="fancy.modern.dll" />
+    <EmbeddedResource Include="../modpack-build/legacy/FancyFeast/Snaitf.Dinkum.FancyFeast.dll" LogicalName="fancy.legacy.dll" />
+    <EmbeddedResource Include="../modpack-build/modern/FishInABarrel/Snaitf.Dinkum.FishInABarrel.dll" LogicalName="fish.modern.dll" />
+    <EmbeddedResource Include="../modpack-build/legacy/FishInABarrel/Snaitf.Dinkum.FishInABarrel.dll" LogicalName="fish.legacy.dll" />
+    <EmbeddedResource Include="../modpack-build/modern/InventoryManagement/InventoryManagement.dll" LogicalName="inventory.modern.dll" />
+    <EmbeddedResource Include="../modpack-build/legacy/InventoryManagement/InventoryManagement.dll" LogicalName="inventory.legacy.dll" />
+    <Compile Include="../Modpack-Mods/DepositRules.cs" Link="DepositRules.cs" />
+    <Compile Include="../Modpack-Mods/DisplayRules.cs" Link="DisplayRules.cs" />
+    <Compile Include="../Modpack-Mods/ItemLockRules.cs" Link="ItemLockRules.cs" />
+    <EmbeddedResource Include="../modpack-build/modern/SalePrices/Snaitf.Dinkum.SalePrices.dll" LogicalName="prices.modern.dll" />
+    <EmbeddedResource Include="../modpack-build/legacy/SalePrices/Snaitf.Dinkum.SalePrices.dll" LogicalName="prices.legacy.dll" />
+    <EmbeddedResource Include="../modpack-build/modern/NpcMap/Snaitf.Dinkum.NpcMap.dll" LogicalName="npc.modern.dll" />
+    <EmbeddedResource Include="../modpack-build/legacy/NpcMap/Snaitf.Dinkum.NpcMap.dll" LogicalName="npc.legacy.dll" />
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.2" PrivateAssets="all" />
+  </ItemGroup>
+</Project>

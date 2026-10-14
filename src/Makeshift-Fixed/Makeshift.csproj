@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <AssemblyName>Snaitf.Dinkum.Makeshift</AssemblyName>
+    <Version>1.0.3</Version>
+    <LangVersion>latest</LangVersion>
+    <GamePath Condition="'$(GamePath)' == ''">C:/Program Files (x86)/Steam/steamapps/common/Dinkum</GamePath>
+    <ManagedPath>$(GamePath)/Dinkum_Data/Managed</ManagedPath>
+    <LoaderPath Condition="'$(LoaderPath)' == ''">$(GamePath)/BepInEx/core</LoaderPath>
+    <DefineConstants Condition="'$(Legacy)' == 'true'">$(DefineConstants);LEGACY</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="$(LoaderPath)/BepInEx.Core.dll" Private="false" />
+    <Reference Include="$(LoaderPath)/BepInEx.Unity.Mono.dll" Private="false" Condition="'$(Legacy)' != 'true'" />
+    <Reference Include="$(LoaderPath)/BepInEx.Unity.dll" Private="false" Condition="'$(Legacy)' == 'true'" />
+    <Reference Include="$(LoaderPath)/0Harmony.dll" Private="false" />
+    <Reference Include="$(ManagedPath)/Assembly-CSharp.dll" Private="false" />
+    <Reference Include="$(ManagedPath)/FizzySteamworks.dll" Private="false" />
+    <Reference Include="$(ManagedPath)/Mirror.dll" Private="false" />
+    <Reference Include="$(ManagedPath)/com.rlabrecque.steamworks.net.dll" Private="false" />
+    <Reference Include="$(ManagedPath)/UnityEngine.dll" Private="false" />
+    <Reference Include="$(ManagedPath)/UnityEngine.CoreModule.dll" Private="false" />
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.2" PrivateAssets="all" />
+  </ItemGroup>
+</Project>

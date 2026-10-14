@@ -1,0 +1,70 @@
+Dinkum Local Modpack 4.2.0 — 2026-10-14
+
+4.2 supports the inspected Steam build 25568182 with an exact Assembly-CSharp hash gate. Equipment Enhancement and Recovery are 1.2.0. All players must use the same enhancement version. Seven defaults include enhancement; recovery remains optional and host-only. Existing BepInEx loader selection is automatic.
+Enhancement reaches +20. Attempts consume Dinks ONLY, on success and failure; no material items are consumed. Failures at current +0 through +10 keep the level; current +11 through +19 lose one tier, with +10 floor and no destruction. +20 power is 1000% and capacity 1600% of base. Condition ratio is preserved; this is not a full repair or increased drop yield.
+Existing +1 through +10 IDs in the 1.1 registry remain unchanged. Old 1.0 saves need explicit per-slot migration in the main-menu compatibility screen before loading. Never guess the source save version: old enhanced saves already played/saved after the game update may be ambiguous and need manual review. Migration backs up originals and refuses unsafe files; do not modify saves or run cloud sync concurrently. A pending migration blocks loading until rollback. Already migrated 1.1 saves need no manual shift.
+Known previous enhancement binaries can be upgraded without removing enhancement data. Removal, downgrade and restore still require conversion to ordinary equipment first. Never use an old installer/DLL on a +20 save. Installer restore is not a save-game rollback.
+See the separate 4.2 verification report for current evidence. Historical 4.0/4.1 results do not certify 4.2. Real remote/20-player testing remains outstanding.
+Recovery searches live enhanced drops; it moves an existing selected drop within the same area using the native position SyncVar. No bulk recovery, new items, or save-file edits. Real in-game recovery and remote synchronization remain untested.
+
+Unofficial local compatibility/replacement package, not an official mod release.
+Original concepts and credits:
+Makeshift / Fancy Feast / Fish In A Barrel: Snaitf
+https://www.nexusmods.com/dinkum/mods/379
+https://www.nexusmods.com/dinkum/mods/201
+https://www.nexusmods.com/dinkum/mods/264
+Inventory Management: Tiny Resort / SlowCircuit
+https://www.nexusmods.com/dinkum/mods/50
+
+Inventory Management 0.9.0 is marked broken by its author. This package instead
+contains an independent local implementation centered on nearby-chest deposit.
+TR Tools is not required. The game's built-in sort is only an optional shortcut;
+per-copy item/stack locks exclude the selected copy from auto-sort/deposit while
+allowing manual movement. Locks follow only within owned inventory, not through
+chest storage or drops. Historical slot locks are not automatically re-applied.
+Original controller UI, tool auto-swap and warnings are not reimplemented.
+Host and clients should use the same local transfer version.
+
+Nearby transfer: main island, closed regular chests, same current house/area,
+matching item types only. Default range 30 tiles, controlled by host config.
+Hotbar, deeds, backpacks, personal/special/automated/display containers excluded.
+The host serially processes current chest state and caches receipts to prevent
+reapplying retry requests in the same connection/session. Client items are held
+temporarily in escrow; rejected items are returned after a receipt. This is NOT
+durable exactly-once transfer across disconnects, world reloads, power loss or
+process crashes. Do not exit while pending. Unresolved transfers are recorded in
+BepInEx/config/LocalInventoryTransfers. No blind auto-refund/replay after restart.
+Keep those records; verify host stock before manual recovery. Back up/test first.
+
+Fish stacking changes runtime item rules. Split creature stacks before disabling
+or restoring this mod. Restoration does NOT convert saved item stacks or undo
+game progress. A pond/terrarium stack drop guard is included, but full multiplayer
+gameplay and every special creature interaction have not been verified.
+
+Initial restore means BEFORE THIS PACK'S FIRST APPLY in the active backup cycle.
+It restores this pack's eight managed plugins/settings and any loader it installed,
+not a pristine vanilla game. MorePlayers and saves are not edited. Current files
+are backed up before restoration; original and recovery backups are retained.
+Transfer journals are NEVER removed by the installer or initial restore.
+
+Installer embeds Mono.Cecil (MIT); see Mono.Cecil-LICENSE.txt for full license.
+Source: https://github.com/jbevain/cecil
+No game DLLs, game source, saves, account data, or BepInEx loader binaries are
+embedded. When no loader exists it downloads official BepInEx be.785 over HTTPS,
+checks pinned SHA-256, and installs unmodified files. Existing compatible BepInEx
+6 pre.1/Unity.Mono loaders are preserved. BepInEx source/license:
+https://github.com/BepInEx/BepInEx/tree/6abdba4
+
+This is a personal unsigned Windows x64 installer (.NET Framework 4.7.2+).
+It does not change security settings, install services or send telemetry.
+Do not disable antivirus. Check author permissions before public redistribution.
+20-player online gameplay has NOT been certified. See the Korean guide.
+
+New independent local features: Sale Prices (base general-shop prices, no
+licence/event/vendor bonus) and NPC Map (host + clients, main island only,
+read-only two-second snapshots, six-second expiry). They do not change prices,
+NPC AI, game saves, or spawn network map objects. Shortcuts are configurable
+per PC; existing values are preserved unless explicitly edited in the installer.
+MorePlayers older than 0.4.0 blocks installation; no automatic deletion occurs.
+New feature in-world multiplayer/rendering tests remain required before use on
+an important save. The installer does not start or modify a running game.

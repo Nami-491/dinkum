@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework><LangVersion>latest</LangVersion>
+    <AssemblyName>LocalDinkum.EquipmentRecovery</AssemblyName><Version>1.0.0</Version>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <GamePath>C:/Program Files (x86)/Steam/steamapps/common/Dinkum</GamePath>
+    <ManagedPath>$(GamePath)/Dinkum_Data/Managed</ManagedPath>
+    <LoaderPath Condition="'$(LoaderPath)' == ''">$(GamePath)/BepInEx/core</LoaderPath>
+    <DefineConstants Condition="'$(Legacy)' == 'true'">$(DefineConstants);LEGACY</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Recovery.cs"/><Compile Include="RecoveryRules.cs"/>
+    <Reference Include="$(LoaderPath)/BepInEx.Core.dll" Private="false"/>
+    <Reference Include="$(LoaderPath)/BepInEx.Unity.Mono.dll" Private="false" Condition="'$(Legacy)' != 'true'"/>
+    <Reference Include="$(LoaderPath)/BepInEx.Unity.dll" Private="false" Condition="'$(Legacy)' == 'true'"/>
+    <Reference Include="$(ManagedPath)/Assembly-CSharp.dll" Private="false"/>
+    <Reference Include="$(ManagedPath)/Mirror.dll" Private="false"/>
+    <Reference Include="$(ManagedPath)/UnityEngine.dll" Private="false"/>
+    <Reference Include="$(ManagedPath)/UnityEngine.CoreModule.dll" Private="false"/>
+    <Reference Include="$(ManagedPath)/UnityEngine.UI.dll" Private="false"/>
+    <Reference Include="$(ManagedPath)/UnityEngine.InputLegacyModule.dll" Private="false"/>
+    <Reference Include="$(ManagedPath)/UnityEngine.IMGUIModule.dll" Private="false"/>
+    <Reference Include="$(ManagedPath)/UnityEngine.TextRenderingModule.dll" Private="false"/>
+    <Reference Include="$(ManagedPath)/Unity.TextMeshPro.dll" Private="false"/>
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.2" PrivateAssets="all"/>
+  </ItemGroup>
+</Project>
